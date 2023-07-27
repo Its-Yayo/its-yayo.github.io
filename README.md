@@ -1,4 +1,4 @@
-## moonwalk - a fast and minimalistic blog theme with clean dark mode
+## Yayo's Site
 
 This is my new portafolio. New design, new colors, more understandable to read. Even for me lol.
 
