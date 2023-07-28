@@ -3,69 +3,64 @@ layout: post
 title: About
 ---
 
-Yoooo Folks! I'm Luis De León, best known as Yayo or Elyayoveloz (or Celfeercho too). This is my welcome to my porfolio and feel free to explore it. 
+## Basics
+I'm Luis De León, or Elyayoveloz :). I'm Mexican and I'm currently studying in Tecnológico de Monterrey Campus Estado de México. I'm studying a Software Engineering (In spanish, Ingeniería en Tecnologías Computacionales). It's mainly a major, but I'm studying by my own some programming and hacking stuff, especially pentesting and red teaming (the guys who attacks and pwns the system lol) 
 
-I'm from Mexico and I'm currently studying in Tecnológico de Monterrey CEM (Campus Estado de México)
- 
-I have lots of hobbies, here's a few of 'em:
-- Bowling (Firstly it was more for chill, but now I'm taking it more seriously. I use 2-handed style and my current max score is 136, updated to Jan 13 2023)
-- Chess (I love playing chess, now I'm playing it more seriously to dominate it. I often play a classical 30+0 but sometimes I play blitz 10+0 and 10+3)
-- Drawing and writing 
-- I read a lot (Hacking and programming books in a mod, growing and motivational books in an another mod. I like fantasy and historical books too)
-- Often I play FPS games (once I played tryharded and got into some tournaments lol). When I have enough time, I play COD Mobile, PUBG Mobile, Critical Ops and CSGO. 
-- I can compose some basic Heavy Metal riffs (Fav bands: Iron Maiden, Metallica, Anthrax, Slayer, Overkill, DRI, Black Sabbath, Deep Purple, KISS, Dokken, Cinderella, Stratovarius, Rhapsody, 
-Skull Fist...) 
-- I like to assemble things like legos or bricks. 
-- Learn new languages (Currently I speak spanish, english, 2/3 french and some basic italian and german)
-- I love cars and motorsport, so when I was little I used to play with scale cars. Now, I collect 'em. 
-
-I'm adding also that, if there's any person who wants some help due of difficult times, here's a user :). I know we all pass through difficult times, but only a few people teach me that those
-times are to make us more strong than before, and those people are only a part of your life motivating you to help others, I love 'em a lot. 
- 	
-### Anyways, I'm studying Computer Engineering, so I love developing things. However, this is what I'm studying and developing right now. 
-
-And I'd say that I discovered developing when I was trying to code a simple BASIC C64 Program on an emulator. That was fantastic to me, because I discovered why computers are so populars since
-the 70s. I remember that I coded something like: 
+## Why did I start programming?
+Back in 2016, I discovered the BASIC language. That one was used as the default language for the Apple II, the VIC-20, the Atari 400 and 800, etc. I tried a BASIC emulator from a Commodore 64 and then, I tried to code something. I remember I did a simple program, like this:
 ```
-10 LET X = 30
-20 LET Y = 40
+10 X = 3
+20 Y = 4
 30 PRINT X + Y
 RUN
 ```
-For me that was fantastic and obviously, I outputed my first "Hello World" tho. I don't care if I'm 20 yo, that's awesome!. Along my career, I discovered new things I can do with programming 
-and eventually I was more deeper in this area. I loved it. I started with CPUs, RAM, ROM, EEPROM memories, etc. Then I moved on into Python, C/C++, some JS stuff, and nowadays I'm still building
-my knowledge. Here's what I'm studying right now:
-- Backend Developing, low and high-level programming
-- Data Structures and Algorithms
-- Reforce Python, C/C++, JS
-- Advanced Algorithms
-- Async Programming (Mostly on Python)
-- Quantum Computing (Tests on Python for now with qiskit)
-- Still not advanced but PHP, Perl and Rust 
-- Clouding Environment (IaaS, SaaS, PaaS)
-- Blockchain and Crypto 
-- Stocks and investments
+I know it's a simple code, but man, I falled in love with anything related with computers after that. Well, I started to investigate about more programming languages, the history of the computers and computer companies and recently, computing theories. Also, I moved on with some hardware (EPPROMs, RAMs and ROMs memories) and software stuff (Agile Software, Software Life Cycle, Testing). 
 
-I've been on some AWS events, both virtual and presencial. Some of 'em include AWS Summit Mexico City 2022, AWS Cloud Practioner... and also, I've some experience with AWS S3, AWS GuardDuty, Amazon EventBridge (For event-oriented Programming) and AWS Cloud9. I'm interested also to include Azure, Google Cloud and IBM Cloud (For Quantum researches) to store my projects. I seriously believe that AI, Clouding Enviroment, Electric infraestructure and specially Quantum Computing will be the main clue of the future.
+## Current Skills 
+- Basic Bash Concepts (Shell and Scripting)
+- Python (Mainly for exploiting)
+- C/C++ (Mainly for vulnerabities) 
+- JavaScript (Mainly for server deploys for testing)
+- Backend Development
+- Async Programming
+- Basic Clouding concepts (IaaS, SaaS, PaaS)
+- Networking concepts (OSI Model, Topology's Networks...)
 
-For instance, with this knowledge I'm moving into something bigger, which is the Security. An ethical hacker has the responsability to detect those explots made because of bugs or code errors, 
-patching 'em. I like CTF games, that's where I can develop and think more patiently to solve a problem with logic and calm. Still in process to win some ones. Because of this, these topics are fundamental into my career, what I'm still studying:
-- Networking Environments (OSI Model, WAN, MAN...)
-- OSCP, OSCE, eCPPT, eCPPTv2, CEH, LPT, GPEN (In every one I'll get a certificate)
-- Pentesting, pivoting and tunneling
-- Active and transversal Directory
-- Bug Bounty
-- SET (Social Engineering Toolkit)
-- Get deeper with some collabs with OWASP (Open Web Application Security Project)
-- Privilage Escalation
-- Reverse Shell (Linux/Windows)
-- Reverse Engineering (Most popular tool is BurpSuite PortSwigger)
-- File transfers
-- 80, 443 (Burp Response, Apache Exploiting, htaccess and htpasswd, HTTP requests, Parameter fuzzing, Burp Spider)
-- SQL Injection
-- Port scanning and listening with nmap and ncat 
-- Cryptography
-- Buffer Overflows
+## Current Goals
+- To learn Rust, Go and Perl as my mainly languages to exploit vulnerabilies
+- To be certified in any of these (CEH, OSCP, OSCE (this one after OSCP), eJPT, eWPT, eCCPTv2 and LPT) for now. 
+- To increase my record list in the CVE (Common vulnerabilies and Exposures). Recently, I was checking CVE-2017-0144. 
+- To learn more about malwares and which vulnerabilities they use. 
+- To work as a pentester for fun :)
 
-And there's more!, but now, my lab has 3 VM's with Windows XP (no encrypt), 7 (encrypt) and 10 (encrypt) and 1 VM running Kali Linux with GNOME 42.0. (Updated to Dec 25 2022). Also, I store my VM'S
-in VMware Workstation Pro and VMware Player for fast tests.
+## Current topics
+- Networking Concepts (IPv4, IPv6, Subnetting...)
+- Recognisance (Nmap scanning, local ARP and ICMP nets, fuzzing, files enumeration...)
+- Docker Deployment (Port forwarding, Docker containers...)
+- Service Enumeration (FTP, HTTP, HTTPS, SMB, WordExpress...)
+- Exploitation (Reverse, bind and forward shells, payloads, BurpSuite...)
+- OWASP and Web Vulnerabilities (SQL, XXE, SSTI, CSTI, LDAP, NoSQL and LaTeX injections...) 
+- Privilage Escalation (Kernel exploitation, Docker breakout...)
+- Buffer Overflows (EIP Registers, Shellcode...)
+- Forward and Reverse Engineering (IDA Pro, Ghindra...)
+- Social Engineering (SET...)
+- Pivoting (Proxychains, SSH Tunnels...)
+- Extra Tools (Metasploit, SQLMap)
+
+## Current Lab
+Currently, I have an iPad 9th Gen (2021) running iPadOS 16 set up with Code App, a text editor for programming for iOS and iPadOS. Also I have an Asus VivoBook 14 X421FAY_X413FA running 2 OS locally. Just I can switch with the one I wanna use in the GNU Grub bootloader. It has a freshly Windows 11 22H2 and Ubuntu 22.04 LTS. Both OS share a local 500 GB SSD disk where I store all my important projects, docs, etc. Each OS has it's own partition from another 1 TB SSD disk to store local programs and to optimize my workstation space. For testing, I use VMWare 17 Workstation/Player and currently, I have 6 Virtual Machines (3 of 'em for my course)
+- Kali 2023.1 
+- Windows 10 2019 Lite Version
+- Windows 7 Ultimate 
+- Windows XP Home Professional 
+- Arch Linux (Not mounted yet)
+- Ubuntu 23.04 
+
+## Hobbies
+
+## Notes
+
+
+
+
+
