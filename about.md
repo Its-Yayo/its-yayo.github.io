@@ -19,7 +19,7 @@ I know it's a simple code, but it was awesome to see how high-level code is tran
 ## Current Skills 
 - Basic Bash Concepts (Shell and Scripting)
 - Python (Mainly for exploiting)
-- C/C++ (Mainly for vulnerabities) 
+- C/C++ (Mainly for vulnerabilities) 
 - JavaScript (Mainly for server deploys for testing)
 - Backend Development
 - Async Programming
@@ -27,9 +27,9 @@ I know it's a simple code, but it was awesome to see how high-level code is tran
 - Networking concepts (OSI Model, Topology's Networks...)
 
 ## Current Goals
-- To learn Rust, Go and Perl as my mainly languages to exploit vulnerabilies
+- To learn Rust, Go and Perl as my mainly languages to exploit vulnerabiltiies
 - To be certified in any of these (CEH, OSCP, OSCE (this one after OSCP), eJPT, eWPT, eCCPTv2 and LPT) for now. 
-- To increase my record list in the CVE (Common vulnerabilies and Exposures). Recently, I was checking CVE-2017-0144. 
+- To increase my record list in the CVE (Common vulnerabilities and Exposures). Recently, I was checking CVE-2017-0144. 
 - To learn more about malwares and which vulnerabilities they use. 
 - To work as a pentester for fun :)
 
