@@ -10,6 +10,7 @@ title: Contact
 - [My LinkedIn Profile](https://www.linkedin.com/in/luis-de-le%C3%B3n-a2b3bb245/)
 - [My Reddit](https://www.reddit.com/user/Elyayoveloz)
 - [My Telegram](https://t.me/Elyayoveloz/)
+- [My Threads](https://www.threads.net/@elyayoveloz_)
 
 ## Support my work
 - [My Github](https://www.github.com/Its-Yayo)
