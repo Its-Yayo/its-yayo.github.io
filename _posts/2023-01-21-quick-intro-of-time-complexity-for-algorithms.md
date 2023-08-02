@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [C, C++]
 ---
 
 

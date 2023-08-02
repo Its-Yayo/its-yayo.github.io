@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [Python, Asyncio]
 ---
 
 When a programmer is writing some code, usually is noted that a function requires to be executed, making 
