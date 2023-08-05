@@ -15,5 +15,8 @@ title: Contact
 ## Support my work
 - [My Github](https://www.github.com/Its-Yayo)
 
+## Note me
+You can [mail](mailto:elyayoveloz@gmail.com) me if you are interested in a collab for a project related with cybersecurity with my knowledge and my skills. 
+
 ## Pls buy me a coffee haha
 - [My buymeacoffee page](https://www.buymeacoffee.com/elyayoveloz)
