@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: [C, C++]
+author: Luis De León
 ---
 
 
