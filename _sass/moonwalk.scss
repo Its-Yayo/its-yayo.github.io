@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
 html { height: 100%; }
 
 body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-family:  "Montserrat", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
@@ -65,7 +66,7 @@ img {
 }
 @mixin light-appearance {
   html, body {
-      --bg: #FFF;
+      --bg: #EEEBDD;
       --bg-secondary: #f3f4f6;
       --headings: #1e293b;
       --text: #374151;
@@ -82,7 +83,7 @@ img {
       --headings: #74c0fc;
       --links: #91A7FF;
       --highlight: #41C7C7;
-      --bg: #1f242A;
+      --bg: #251D3A;
       --bg-secondary: #323945;
       --text: #adb5bd;
       --text-secondary: #9CA3AF;
