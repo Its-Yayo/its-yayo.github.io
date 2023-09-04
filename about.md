@@ -33,7 +33,7 @@ I know it's a simple code, but it was awesome to see how high-level code is tran
 - To learn more about malwares and which vulnerabilities they use. 
 - To work as a pentester for fun :)
 
-## Current topics
+## Current Topics
 - Networking Concepts (IPv4, IPv6, Subnetting...)
 - Recognisance (Nmap scanning, local ARP and ICMP nets, fuzzing, files enumeration...)
 - Docker Deployment (Port forwarding, Docker containers...)
@@ -47,14 +47,16 @@ I know it's a simple code, but it was awesome to see how high-level code is tran
 - Pivoting (Proxychains, SSH Tunnels...)
 - Extra Tools (Metasploit, SQLMap)
 
-## Current Lab
-Currently, I have an iPad 9th Gen (2021) running iPadOS 16 set up with Code App, a text editor for programming for iOS and iPadOS. It also works as a virtual notebook (not only mine). Also I have an Asus VivoBook 14 X421FAY_X413FA running 2 OS locally. Just I can switch with the one I wanna use in the GNU Grub bootloader. It has a freshly Windows 11 22H2 and Ubuntu 22.04 LTS. Both OS share a local 500 GB SSD disk where I store all my important projects, docs, etc. For coding, I use VSCode as the "emergency IDE" but for every language, I have my own IDE from [JetBrains](https://www.jetbrains.com/) (CLion, Pycharm, Rider, WebStorm, IntelliJ Idea). Each OS has it's own partition from another 1 TB SSD disk to store local programs and to optimize my workstation space. For testing, I use VMware 17 Workstation/Player and currently, I have 6 Virtual Machines (3 of 'em for my course)
+## Current Lab for Productivity
+Currently, I have an iPad 9th Gen (2021) running iPadOS 16 set up with Code App, a text editor for programming for iOS and iPadOS. It also works as a virtual notebook (not only mine). Also I have an Asus VivoBook 14 running 2 OS locally. Just I can switch with the one I wanna use in the GNU Grub bootloader. It has a freshly Windows 11 22H2 and Ubuntu 22.04 LTS. Both OS share a local 500 GB SSD disk where I store all my important projects, docs, etc. For coding, I use VSCode as the "emergency IDE" but for every language, I have my own IDE from [JetBrains](https://www.jetbrains.com/) (CLion, Pycharm, Rider, WebStorm, IntelliJ Idea). Each OS has it's own partition from another 1 TB SSD disk to store local programs and to optimize my workstation space. For testing, I use VMware 17 Workstation/Player and currently, I have 6 Virtual Machines (3 of 'em for my course)
 - Kali 2023.1 
 - Windows 10 2019 Lite Version
 - Windows 7 Ultimate 
 - Windows XP Home Professional 
 - Arch Linux (Not mounted yet)
 - Ubuntu 23.04 
+
+Also, I have my iPhone 7 Plus and my Nothing Ear (Stick), as well as my Xiaomi Smart Band 7. 
 
 ## Hobbies
 I'm a geek guy, usually I like normal but sometimes weird stuff lol. Let's list a few of 'em:
