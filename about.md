@@ -56,7 +56,7 @@ Currently, I have an iPad 9th Gen (2021) running iPadOS 16 set up with Code App,
 - Arch Linux (Not mounted yet)
 - Ubuntu 23.04 
 
-Also, I have my iPhone 7 Plus and my Nothing Ear (Stick), as well as my Xiaomi Smart Band 7. 
+Also, I have my iPhone 7 Plus and my Nothing Ear (Stick), as well as my Xiaomi Smart Band 7. I'm earning for some hardware hacking tools like a HakCat Wifi Nugget or the Flipper Zero :)
 
 ## Hobbies
 I'm a geek guy, usually I like normal but sometimes weird stuff lol. Let's list a few of 'em:
