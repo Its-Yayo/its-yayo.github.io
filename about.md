@@ -29,7 +29,7 @@ I know it's a simple code, but it was awesome to see how high-level code is tran
 ## Current Goals
 - To learn Rust, Go and Perl as my mainly languages to exploit vulnerabiltiies
 - To be certified in any of these (CEH, OSCP, OSCE (this one after OSCP), eJPT, eWPT, eCCPTv2 and LPT) for now. 
-- To increase my record list in the [CVE](https://cve.mitre.org/) (Common vulnerabilities and Exposures). Recently, I was checking CVE-2017-0144. 
+- To increase my record list in the [CVE](https://cve.org/) (Common vulnerabilities and Exposures). 
 - To learn more about malwares and which vulnerabilities they use. 
 - To work as a pentester for fun :)
 
@@ -60,14 +60,15 @@ Also, I have my iPhone 7 Plus and my Nothing Ear (Stick), as well as my Xiaomi S
 
 ## Hobbies
 I'm a geek guy, usually I like normal but sometimes weird stuff lol. Let's list a few of 'em:
+- I like riced OS distributions, I used to have mine one with Arch. Check out the [r/unixporn](https://www.reddit.com/r/unixporn/) Reddit community. 
 - I like bowling, my current style to play is the 2-handed one.
 - I like Chess, I used to have +1400 but after 2-3 years without playing, my ratio went down to +800. 
 - I like drawing and taking pics of cute landscapes and showing 'em to special people.
 - Besides programming and computing, my other passions are also space, military infraestructure, aviation and motorsport.
 - Recently I started to listen piano and reflective music for work.
 - My fav genre of all time is metal music. Some good bands are: Iron Maiden, Metallica, Overkill, Exodus, Kiss, Y&T, Stratovarius, Helloween, DRI, Municipal Waste, Skull Fist, Enforcer...
-- But also, I like synthwave retro (VHS Dreams, Waveshaper), 80s and current pop spanish music (Soda Stereo, Juanes, Sin Bandera), electronic music (Daft Punk, Martin Garrix)
-- I like Star Wars. My fav movie is the 5th episode (2nd cronology talking). The Empire Strikes Back is a masterpiece. However, my fav movie is between Interstellar and Black Hawk Down. 
+- But also, I like synthwave retro (VHS Dreams, Waveshaper), phonk music (Kordhell, Dxrk ダーク), 80s and current pop spanish music (Soda Stereo, Juanes, Sin Bandera), electronic music (Daft Punk, Martin Garrix)
+- I like Star Wars. My fav movie is the 5th episode (2nd cronology talking). The Empire Strikes Back is a masterpiece. However, my fav movie is Interstellar
 - I like to challenge myself with new challenges. (To assemble a new lego, to try a new coding problem with a new algorithm, test out my math skills...)
 
 ## Notes
