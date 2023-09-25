@@ -4,6 +4,20 @@ tags: [Python, Asyncio]
 author: Luis De León
 ---
 
+## Table of Contents
+1. [Basics](#basics)
+2. [Intro](#intro)
+3. [Asyncio](#asyncio)
+4. [Await Concept](#await-concept)
+5. [Common Errors](#common-errors)
+6. [Coroutines](#coroutines)
+7. [Tasks](#tasks)
+8. [Conclusion](#conclusion)
+
+---
+
+## Basics
+
 When a programmer is writing some code, usually is noted that a function requires to be executed, making 
 this code synchronous. Here's a basic example. 
 
@@ -24,9 +38,8 @@ In this example, the interpreter knows that the args in the function above needs
 to be executed. Because of this, the numbers are known calling the main function. (What is to 
 be expected.) In this example, the output will be 9. 				
 
-* * *
 
- 
+## Intro
 
 However, there's another way to code in a simply way, when 2 (or more) functions are being executed at the same time, with different responses and 
 one after the other. I know this seems pretty confusing, so I'm gonna explain it to you in a more simple way. 
@@ -43,6 +56,9 @@ while another function is running, this is what is known as asynchronous code. I
 async def main():
     # Code here
 ```
+
+## Asyncio
+
 Now, in order to code asynchronous programming, is important to import a library called ```asyncio```, which provides high-level APIs, structured network code and asynchronous frameworks. You
 can find more information about this library [here](https://docs.python.org/3/library/asyncio.html).
 
@@ -83,6 +99,8 @@ $
 And yea, I can read your mind and I'd say you have no idea what I just code. Lemme explain you better. In case you have some experience
 with Python, you can see that the first function is just returning an string object. In the main function we are calling it but, there's something new for non-async programmers and that's known as Task-based Asynchronous Pattern (TAP), using async/await syntax. 
 
+## Await Concept
+
 The concept ```await``` is used as a key word to control a loop passed as an event. Both synchronous and asynchronous uses tasks perfomed while the whole code is executed. The only main difference between being sync and async is the code's threads, so referering to the explanation at the beginning of this doc, a sync code has only one thread, while an async code has multiple threads because of a code block's awaiting. 
 
 In the previous example, we have some asyncio's methods and this is trully important. That will allow us to make a code asynchronous and there are plenty of methods you as a programmer can use, but just let's take a look. 
@@ -110,6 +128,8 @@ if __name__ == "__main__":
 
 Here's a useful [doc](https://realpython.com/if-name-main-python/) why ```if __name__ == "__main__"``` is so important in Python and why we should include this in all our Python codes. We should look what we can see next. 
 
+## Common Errors
+
 As I wrote before, you need to call a function to be executed, otherwise, it will be more statically than useful. (Yea, your code will impress even a farmer lol). Well, a programmer knows this and it's important in any compilated/interpreted programming language. In Python,  we call any function by the function's name and the main args if it has. In the first example, I typed ```main()``` to call the main function, so refering as the last example, we can suppose that we call it like in the first example. Is this true? 
 
 Check what happens if we run our code with ```main()``` instead of ```asyncio.run(main())```:
@@ -135,13 +155,16 @@ File "/home/user/some_code.py", line 12
 SyntaxError: 'await' outside function
 $
 ```
+
+## Coroutines
+
 Now, after all of this, I need to set an object while another object is being executed and it's already noted that this is an asynchronous code with multiple threads setted on. 
 
 I need you to understand this, because this will solve our doubt why we use ```asyncio.run(main())``` to run our function, so in order to this, let's introduce a new important object based on TAP. A coroutine is an object used in async programming to be scheduled in case of suspending it and then being executed again. It's based on our syntax we stablished before (async/await), so at the time we are scheduling an object, we are scheduling a coroutine to be awaited in case we wanna do it (Usually yes). Also, as I mentioneed before in this doc, there's an event-loop running while a function is being awaited, due of having multiple threads. At this point, we can call 'em as subroutines, because at the end, it's just a sequence of instructions performing a specific task. 
 
 ```asyncio.run(main())``` let us to run a event-loop coroutine in order for each function awaited, then to be executed.
 
-***
+## Tasks
 
 I mentioned what's a task and how it's performed during an execution inside an async block code. But now we run into another doubt: Is it possible to create our own tasks, avoiding an unquote object blocked by an another awaitable object? Or in simple words: Execute a task while another is awaiting? Yes and I'm gonna show you:
 
@@ -189,3 +212,11 @@ $
 In this snippet code, I'm showing you how to create a task with asyncio using ```asyncio.create_task()```, and showing you when a task is being either awaited or executed. 
 
 ```asyncio.create_task()``` is a method that allows us to create a task, but it's important to note that this method is not a coroutine, so we can't await it. 
+
+But check the output: Why we can see the task 2 done before the task 3 done? Well, this is because we are creating a task and then we are awaiting it. This is the main difference between ```asyncio.create_task()``` and ```asyncio.run()```. The first one is used to create a task and the second one is used to run a coroutine. Task 3 is being done because we are not awaiting it. Task 2 is being awaited inside the function. Lol. you didn't see that coming, right? Hahaha
+
+## Conclusion
+
+We learned today about asynchronous programming and how we can code it in Python. Also we learned about coroutines and tasks, which are really important to understand how async code works. 
+
+I'll write a doc about futures in Python, so stay tuned. Hope you learned a lot today. :)
