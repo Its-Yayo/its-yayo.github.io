@@ -16,7 +16,7 @@ Github Resource [here](https://github.com/Its-Yayo/f-test)
 ---
 
 ## Intro
-I had to make a web app for a complete architecture project. This include 2 mobile apps made with Kotlin, a fully-functional dynamic web app and an RDS DB instance. My team's doing both mobile apps (Yea, I'm not an Android dev lmao), so I focused on making this website. I'll say one of the members of my team helped me with the client-side code. (Yea, also the ```XMLHttpRequest();``` stuff). I was focused more in the server-side code, since I have more experience with it. 
+I had to make a web app for a complete architecture project. This includes 2 mobile apps made with Kotlin, a fully-functional dynamic web app and an RDS DB instance. My team's doing both mobile apps (Yea, I'm not an Android dev lmao), so I focused on making this website. I'll say one of the members of my team helped me with the client-side code. (Yea, also the ```XMLHttpRequest();``` stuff). I was focused more in the server-side code, since I have more experience with it. 
 
 In April 2023, I learnt Express.js, a backend framework to build minimal APIs for Node and JavaScript. I wasn't comfortable with it a lot (and not because my professor wasn't teach it well. In fact, he is one of the best programming teachers I've ever had) because JavaScript is not a language I really love. It's good for basic stuff and for beginners but I'ma say I'd rather use Python or Rust (soooooon). Also, I find the fact that I cannot learn so quite a bit at the time I'm surrounded with my fellow extroverts haha. I need some space to learn, to capture more knowledge to my fully-prepared brain. I discarted Express.js for htis project for time reasons but also I needed to build something with passion and discipline. 
 

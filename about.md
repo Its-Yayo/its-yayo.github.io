@@ -4,7 +4,7 @@ title: About
 ---
 
 ## Basics
-I'm Luis De León, or Elyayoveloz :). I'm Mexican and I'm currently studying in Tecnológico de Monterrey Campus Estado de México. I'm studying a Software Engineering (In spanish, Ingeniería en Tecnologías Computacionales). It's mainly a major, but I'm studying by my own some programming and hacking stuff, especially pentesting and red teaming (the guys who attacks and pwns the system lol) 
+I'm Luis De León, or Elyayoveloz :). I'm Mexican and I'm currently studying in Tecnológico de Monterrey Campus Estado de México. I'm studying a Software Engineering (In spanish, Ingeniería en Tecnologías Computacionales or Ingeniería en Software) degree. Also, I'm a junior software engineer and pentester / red team student. These guys are the ones who protect company by attacking it lmao. 
 
 ## Why did I start programming?
 Back in 2016, I discovered the BASIC language. That one was used as the default language for the Apple II, the VIC-20, the Atari 400 and 800, etc. I tried a BASIC emulator from a Commodore 64 and then, I tried to code something. I remember I did a simple program, like this:
