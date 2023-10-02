@@ -58,6 +58,8 @@ Currently, I have an iPad 9th Gen (2021) running iPadOS 17 set up with Code App,
 
 Also, I have my iPhone 7 Plus and my Nothing Ear (Stick), as well as my Xiaomi Smart Band 7. I'm earning for some hardware hacking tools like a HakCat Wifi Nugget or the Flipper Zero :)
 
+And yeaaa, I still have my iPod Touch 4th Gen to bring out some good memories :)
+
 ## Hobbies
 I'm a geek guy, usually I like normal but sometimes weird stuff lol. Let's list a few of 'em:
 - I like riced OS distributions, I used to have mine one with Arch. Check out the [r/unixporn](https://www.reddit.com/r/unixporn/) Reddit community. 
