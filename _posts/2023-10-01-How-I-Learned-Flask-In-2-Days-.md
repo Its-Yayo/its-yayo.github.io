@@ -46,13 +46,13 @@ In the Frontend section I'll explain how I did it, but first I needed to build t
 ## APIs
 Flask is a modern backend framework to build minimal and scalable applications. If you are interested in more about this framework, you can click [here](https://flask.palletsprojects.com/en/2.3.x/). 
 
-The whole app makes 5 apps: Deploy the ```layout.html``` file, show the data, adds data, deletes data and edits that data. For this stuff, I already know that at least, I'll need 4 APIs: "/", "/edit", "/add", "/delete". But I guess, I'm not done. 
+The whole app makes 5 apps: Deploy the ```layout.html``` file, show the data, adds data, deletes data and edits that data. For this stuff, I already know that at least, I'll need 4 APIs. But I guess, I'm not done. 
 
 Somehow I need to figure out how to send data into a DB (In this case, a MariaDB server cuz I like MariaDB lmao). I remember I learnt how to create and manage stored procedures. These are like a simple .sql code block that may allow us to insert, get, delete or show any data. What I wanted to do is all of that inside the view. Flask will allow me to create queries and stuff. 
 
 Before showing any code, I'ma say that F-test uses its HTML format to call the endpoints, then to be shown in the view. It's like the MVC model. Now, how I call an endpoint from the HTML using Flask? Welllllll, there's something called [Jinja2](https://palletsprojects.com/p/jinja/). To summarize it, Jinja2 is a template engine for Python that supports unicode characters. Also, Flask is compatible with Jinja2. So yea, I use it. 
 
-I said before I needed to show some data in the page retrieved from the DB. Mhm, alright-
+I said before I needed to show some data in the page retrieved from the DB. Mhm, alright.
 
 ```sql
 SELECT * FROM contacts
