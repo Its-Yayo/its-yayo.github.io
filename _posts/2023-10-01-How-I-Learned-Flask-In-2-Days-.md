@@ -15,7 +15,7 @@ Github Resource [here](https://github.com/Its-Yayo/f-test)
 ---
 
 ## Intro
-I had to make a web app for a complete architecture project. This includes 2 mobile apps made with Kotlin, a fully-functional dynamic web app and an RDS DB instance. My team's doing both mobile apps (Yea, I'm not an Android dev lmao), so I focused on making this website. I'll say one of the members of my team helped me with the client-side code. (Yea, also the ```XMLHttpRequest();``` stuff). I was focused more in the server-side code, since I have more experience with it. 
+I had to make a web app for a complete architecture project. This include 2 mobile apps made with Kotlin, a fully-functional dynamic web app and an RDS DB instance. My team's doing both mobile apps (Yea, I'm not an Android dev lmao), so I focused on making this website. I'll say one of the members of my team helped me with the client-side code. (Yea, also the ```XMLHttpRequest();``` stuff). I was focused more in the server-side code, since I have more experience with it. 
 
 In April 2023, I learnt Express.js, a backend framework to build minimal APIs for Node and JavaScript. I wasn't comfortable with it a lot (and not because my professor wasn't teach it well. In fact, he is one of the best programming teachers I've ever had) because JavaScript is not a language I really love. It's good for basic stuff and for beginners but I'ma say I'd rather use Python or Rust (soooooon). Also, I find the fact that I cannot learn so quite a bit at the time I'm surrounded with my fellow extroverts haha. I need some space to learn, to capture more knowledge to my fully-prepared brain. I discarted Express.js for this project for time reasons but also I needed to build something with passion and discipline. 
 
@@ -110,7 +110,7 @@ def root() -> str:
     return render_template('index.html', contacts=data)
 ```
 
-As u noticed before, I'm using decorators to stablish the endpoint route and the HTTP method (In this case, it's GET but it's not necessary to type it in the root endpoint. (The root endpoint in this case will be the first layout HTML that'll be shown the first time I deploy a page (locally or remotely). 
+As u noticed before, I'm using decorators to stablish the endpoint route and the HTTP method. In this case, it's GET but it's not necessary to type it in the root endpoint. (The root endpoint in this case will be the first layout HTML that'll be shown the first time I deploy a page (locally or remotely)). 
 
 Note that also I'm using enviroment variables for the connection requirements, as well as the secret key (without it, the page raises an exception lmao). 
 
@@ -149,12 +149,162 @@ With jinja2, I'm using divs to make a table where I will allocate the data. Insi
 
 Inside the UI, I need to store, edit and delete data. I'll not do that by queries using phpmyadmin dude, the client is not going to be happy with that lmao. Anyways, I need the endpoints to make all these stuff ("/all_contact", "/edit_contact/<parameter>", "/delete_contact/<parameter>" and "/delete_contact/<parameter>"). NOTE: You also can clone the repo resource to test it by yourself.  
 
-Soon...
+```python
+#!/usr/bin/env python3
+from flask import render_template, request, redirect, url_for, flash
+from connection import connection
+import mariadb
+
+@app.route("/add_contact", methods=['GET', 'POST'])
+def add_user():
+    if request.method == 'POST':
+        fullname = request.form['fullname']
+        phone = request.form['phone']
+        email = request.form['email']
+
+        try:
+            conn = connection()
+            cur = conn.cursor()
+            cur.callproc('insertContact', (fullname, phone, email))
+            conn.commit()
+            flash("User Added Successfully")
+
+            return redirect(url_for('main.root'))
+        except mariadb.Error as e:
+            print(f"Error executing SQL: {e}")
+            return "Error"
+        finally:
+            if conn:
+                conn.close()
+```
+
+What th did I just code? Lemme explain it. I'm using the GET method to retrieve the contacts from the DB, but why I'm executing the try statement only if the POST method is true? Well, since we are sending data into the DB. (Yea, adding contacts means I'll store it once I deploy it in the page). I'm making a connection with the function I did before. With that connection, I'm making a cursor which will allow me to execute queries, stored procedures, etc. In this case, I wanna insert contacts into the DB, with an stored procedure with 3 args to avoid SQL Injections. Once I call the procedure, I commited it (exexute it), then to redirect to the main layout HTML frame. If the procedure cannot be executed, the function raises an exception. 
+
+If you know some python, you can notice that in the end I'm using a finally statement. This code block will be executed independently of the exception raised before (if it was raised obviously). This means this code will be run anyway. IN this case, I'm using it to close the DB's connection. 
+
+Now that u know I did this, we can code the rest of the APIs. I need to delete and edit data inside the layout HTML page too! Well, remember this?
+
+```html
+{% raw %}<a href='/edit_contact/{{ contact.0 }}' class="btn btn-secondary">Edit</a>
+<a href='/delete_contact/{{ contact.0 }}' class="btn btn-danger">Delete</a>{% endraw %}
+```
+
+Well, let's start with delete. For instance, there's an HTTP method called DELETE. However, I don't specifically to detail the DELETE method with Flask, the framework is doing that for you. But this doesn't mean you don't need to put it in the code if you are using another framework/language. For example, ExpressJS with JavaScript or sometimes Ruby on Rails with Ruby uses this typo to execute the method (unless you wanna get an 405 error lmao). If you wanna modify the code and try it by yourself, go ahead. 
+
+```python
+#!/usr/bin/env python3
+from flask import render_template, request, redirect, url_for, flash
+from connection import connection
+from werkzeug import Response
+import mariadb
+
+@app.route("/delete_contact/<string:id>")
+def delete_contact(id: int) -> Response:
+    conn = connection()
+    cur = conn.cursor()
+    cur.execute('DELETE FROM contacts WHERE idcontact = {0}'.format(id))
+    conn.commit()
+    flash("User Removed Successfully")
+
+    return redirect(url_for('main.root'))
+```
+
+In this case, I'm not using an stored procedure since it's a simple SQL query to delete data. However, you can modify it by implementing an stored procedure. (Remember, I'm using MariaDB).
+
+Now, what about editing data? Well, that's curious because I firstly need to retrieve this data from the HTML format then to be edited. Well, for this, I need another endpoint to retrieve this data. Wait, did I just retrieved it twice? (One for the root endpoint, another one for editing it). Yea, because what I wanna to is to redirect to an another HTML format where I can edit it. If I implement the same ``ìndex.html``` format, I need to remove the table to then, insert a new format to edit the data. Totally unacceptable. 
+
+```html
+<!-- edit.html -->
+{% raw %}
+<div class="col-md-5 offset-md-4">
+    <div class="card card-body">
+        <form action="/update_contact/{{ contact.0 }}" method="post">
+            <div class="form-group">
+                <input type="text" name="fullname" placeholder="Full Name" value="{{ contact.1 }}">
+            </div>
+
+            <div class="form-group">
+                <input type="text" name="phone" placeholder="Phone" value="{{ contact.2 }}">
+            </div>
+
+            <div class="form-group">
+                <input type="text" name="email" placeholder="Email" value="{{ contact.3 }}">
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary btn-success btn-block">Submit</button>
+            </div>
+        </form>
+    </div>
+</div> {% endraw %}
+```
+
+First, I need to retrieve the data as I said before.
+```python
+#!/usr/bin/env python3
+from flask import render_template, request, redirect, url_for, flash
+from connection import connection
+from werkzeug import Response
+import mariadb
+
+@app.route("/edit_contact/<string:id>", methods=['GET'])
+def get_contact(id: int) -> str:
+    conn = connection()
+    cur = conn.cursor()
+    cur.execute('SELECT * FROM contacts WHERE idcontact = %d', (id,))
+    data = cur.fetchall()
+    print(data[0])  # Debug Message
+
+    return render_template('edit.html', contact=data[0])
+```
+
+Now that I have this, I can edit it. (Note, the previous function returns the template and the contact I'll edit.)
+
+```python
+@main.route("/update_contact/<string:id>", methods=['POST'])
+def update_contact(id: int) -> Response | str:
+    if request.method == 'POST':
+        try:
+            conn = connection()
+            cur = conn.cursor()
+            cur.callproc('updateContact', (id, request.form['fullname'], request.form['phone'], request.form['email']))
+            conn.commit()  
+            flash("User Updated Successfully")
+
+            return redirect(url_for('main.root'))
+        except mariadb.Error as e:
+            print(f"Error executing SQL: {e}")
+            return "Error"
+        finally:
+            if conn:
+                conn.close()
+```
+
+Now that I'm done, let's deploy the page to see if it works. (Note, while I was developing F-test, I didn't really use Postman to check if the APIs were working properly since it's a really small project. Remember, I had no idea about Flask until now :) ). 
+
+```python
+#!/usr/bin/env python3
+from app import app
+import sys
+
+if __name__ == '__main__':
+    app.run(debug=True)
+    sys.exit(0)
+```
+
+Now's done! This will deploy a local server running on port 5000 by default. However, you can specify it with the ```port=""``` arg. Note that once you finish running, you must press ctrl+c to kill the process. I have TOC, I mind if I keep a server listening on any port lmao. 
 
 
 ## Conclusion
-This is the final design of F-test (for now), let me know if you like it. 
-[![F-Test](/f-test_img.png)
+![F-Test](/f-test_img.png)
 
-Soon...
+Do u like it? I used Bootstrap and [Bootswatch](https://bootswatch.com/) for the colors and designs. I'm not quite good with CSS but I tried my best. 
+
+I really did this project to challenge myself if I was capable to learn a new framework for me in less than one week. Of course, this was because I had to build another backend app for my college project which was way bigger than F-test. I think I accomplished it.
+
+And I forgot to say, my uni didn't give me any lessons about Flask (except for HTTP methods and stuff), I had to learn it by my own. That was quite good :), it remembered me some times I challenged myself with algebra equations with time on hand back in high school. Awesome. 
+
+Hope you learn something new!. If you have some doubts or toubles, don't forget to [mail](mailto:elyayoveloz@gmail.com) me. 
+
+Happy coding :)
 
