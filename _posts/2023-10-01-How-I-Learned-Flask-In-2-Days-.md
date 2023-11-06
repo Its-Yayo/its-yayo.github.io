@@ -292,7 +292,7 @@ if __name__ == '__main__':
     sys.exit(0)
 ```
 
-Now's done! This will deploy a local server running on port 5000 by default. However, you can specify it with the ```port=""``` arg. Note that once you finish running, you must press ctrl+c to kill the process. I have TOC, I mind if I keep a server listening on any port lmao. 
+Now's done! This will deploy a local server running on port 5000 by default. However, you can specify it with the ```port=""``` arg. Note that once you finish running, you must press ctrl+c to kill the process. I have OCD, I mind if I keep a server listening on any port lmao. 
 
 
 ## Conclusion
