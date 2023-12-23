@@ -18,7 +18,7 @@ Usually you can reach me likely these hours:
 - Saturday, Sunday: 12-1 PM CT
 
 ## My Socials:
-- [My Github](https://www.github.com/Its-Yayo)
+- [My GitHub](https://www.github.com/Its-Yayo)
 - [My X for coding](https://twitter.com/elyayoveloz)
 - [My X for random](https://twitter.com/celfeercho)
 - [My YouTube](https://www.youtube.com/channel/UC_bHbAMGcm1yLguVWJNUyLg/featured)
