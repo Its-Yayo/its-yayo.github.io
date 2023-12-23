@@ -14,7 +14,7 @@ Back in 2016, I discovered the BASIC language. That one was used as the default 
 30 PRINT X + Y
 RUN
 ```
-I know it's a simple code, but it was awesome to see how high-level code is tranlated into machine code. Well, I started to investigate about more programming languages, the history of the computers and computer companies and recently, computing theories. Also, I moved on with some hardware (EPPROMs, RAMs and ROMs memories) and software stuff (Agile Software, Software Life Cycle, Testing). 
+I know it's a simple code, but it was awesome to see how high-level code is translated into machine code. Well, I started to investigate about more programming languages, the history of the computers and computer companies and recently, computing theories. Also, I moved on with some hardware (EPPROMs, RAMs and ROMs memories) and software stuff (Agile Software, Software Life Cycle, Testing). 
 
 ## Current Skills 
 - Basic Bash Concepts (Shell and Scripting)
