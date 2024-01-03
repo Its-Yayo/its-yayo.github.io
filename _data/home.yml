@@ -15,7 +15,7 @@ project_entries:
     
   - title: Ramskit
     url: ramskit
-    desc: Ramskit is a single ransomware tool to encrypt/decrypt data for pentesting.
+    desc: Ramskit is a single CLI tool to encrypt/decrypt data for pentesting.
     
 misc_entries:
   - title: this is an example vertical list
