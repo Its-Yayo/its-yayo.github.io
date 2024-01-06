@@ -65,8 +65,9 @@ I'm a geek guy, usually I like normal but sometimes weird stuff lol. Let's list 
 - I like drawing and taking pics of cute landscapes and showing 'em to special people.
 - Besides programming and computing, my other passions are also space, military infraestructure, aviation and motorsport.
 - Recently I started to listen piano and reflective music for work.
-- My fav genre of all time is metal music. Some good bands are: Iron Maiden, Metallica, Overkill, Exodus, Kiss, Y&T, Stratovarius, Helloween, DRI, Municipal Waste, Skull Fist, Enforcer...
-- But also, I like synthwave retro (VHS Dreams, Waveshaper), phonk music (Kordhell, Dxrk ダーク), 80s and current pop spanish music (Soda Stereo, Juanes, Sin Bandera), electronic music (Daft Punk, Martin Garrix)
+- My fav genre of all time is metal music. Some good bands are: Iron Maiden, Metallica, Overkill, Exodus, Kiss, Y&T, Stratovarius, Helloween, DRI, Municipal Waste, Skull Fist, Enforcer, etc...
+- Recently I've been discovering phonk music, it helps me a lot with motivation, discipline, coding and to be myself. Some good artists are: InterWorld, Kordhell, Dxrk ダーク, phonk.me, Isolate.exe, glichery, MoonDeity, DVRST, Mareux, etc... 
+- But also, I like synthwave retro (VHS Dreams, Waveshaper), 80s and current pop spanish music (Soda Stereo, Juanes, Sin Bandera), electronic music (Daft Punk, Martin Garrix)
 - I like Star Wars. My fav movie is the 5th episode (2nd cronology talking). The Empire Strikes Back is a masterpiece. However, my fav movie is Interstellar
 - I like to challenge myself with new challenges. (To assemble a new lego, to try a new coding problem with a new algorithm, test out my math skills...)
 
@@ -74,6 +75,7 @@ I'm a geek guy, usually I like normal but sometimes weird stuff lol. Let's list 
 Usually, I'm a hard-disciplined guy who learnt a lot in his past. I've learnt so many lessons in life I'd like to share to other young people to success in life as they grow to. So many few special people taught me how's life working inside a person, and that stuff. Also, the biggest things come in the moment you were not expecting for. Actually, you don't know where and when it's gonna happen, but they do. I've recieved some special cute things from those few people, worrying and taking care of me sometimes. Who reads this text, will identify who I'm talking to. Just I wanna say thank you yall from the bottom of my heart. :)
 
 ## Favorite Quotes
+- "Talk is cheap. Show me the code"
 - "That dream that you've holding in your mind, it's possible"
 - "When people say you can't do it, those people is showing you their limits, not yours"
 - "It's very important for you to believe that you are the one"
