@@ -213,7 +213,7 @@ In this snippet code, I'm showing you how to create a task with asyncio using ``
 
 ```asyncio.create_task()``` is a method that allows us to create a task, but it's important to note that this method is not a coroutine, so we can't await it. 
 
-But check the output: Why we can see the task 2 done before the task 3 done? Well, this is because we are creating a task and then we are awaiting it. This is the main difference between ```asyncio.create_task()``` and ```asyncio.run()```. The first one is used to create a task and the second one is used to run a coroutine. Task 3 is being done because we are not awaiting it. Task 2 is being awaited inside the function. Lol. you didn't see that coming, right? Hahaha
+But check the output: Why we can see the task 3 done before the task 2 done? Well, this is because we are creating a task and then we are awaiting it. This is the main difference between ```asyncio.create_task()``` and ```asyncio.run()```. The first one is used to create a task and the second one is used to run a coroutine. Task 3 is being done because we are not awaiting it. Task 2 is being awaited inside the function. Lol. you didn't see that coming, right? Hahaha
 
 ## Conclusion
 
