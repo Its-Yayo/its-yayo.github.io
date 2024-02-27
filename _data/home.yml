@@ -15,7 +15,7 @@ project_entries:
     
   - title: Ramskit
     url: ramskit
-    desc: Ramskit is a single CLI tool to encrypt/decrypt data for pentesting.
+    desc: Ramskit is a single CLI tool to encrypt/decrypt data.
     
 misc_entries:
   - title: this is an example vertical list
@@ -30,23 +30,4 @@ misc_entries:
   - title: Blog posts
     post_list: false
     url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
 
