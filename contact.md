@@ -6,8 +6,6 @@ title: Contact
 - Click <a href="resources/CV_Español.pdf" download="CV_Español.pdf">here</a> to download my CV in spanish*
 - Click <a href="resources/CV_English.pdf" download="CV_English.pdf">here</a> to download my CV in english*
 
-*Updated to Jan 2024 / Feb 2024
-
 
 ## Office hours:
 I mostly answer DMs on X (Twitter) and Telegram, but also you can [mail](mailto:elyayoveloz@gmail.com) me if you are interested for business or for a programming collab. That'd be great!
