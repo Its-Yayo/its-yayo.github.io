@@ -2,7 +2,8 @@ title: Yayo's Site
 author: Luis De León
 url: https://www.its-yayo.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Hello. I'm Yayo and I'm a pentester / red team student. Feel free to explore my site. Wish yall all the best. Hack with purpuse, hack with ethics. 
+  "In the busy activities of daily existence, thought discipline is required if you are 
+  to re-educate the mind and make of it a power-producing plant" 
 
 
 
@@ -21,7 +22,7 @@ theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "< Go back" # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
+  date_format: "%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
