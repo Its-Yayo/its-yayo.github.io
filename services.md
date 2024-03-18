@@ -5,7 +5,7 @@ title: Services
 
 ## Coding Classes (Basic - Intermediate)
 
-On [contact](https://its-yayo.github.io/contact) you can check my schedules and you can [mail](mailto:elyayoveloz@gmail.com) me (or dm me on [X](https://twitter.com/Elyayoveloz) for any doubt you have, so we schedule a live 30 to 40-min meeting on Google Meet or Discord (Your choice). The topics we can encompass in pseudocode (or Python or single notes) are:
+On [contact](https://its-yayo.github.io/contact) you can check my timing stuff and you can [mail](mailto:elyayoveloz@gmail.com) me (or dm me on [X](https://twitter.com/Elyayoveloz) for any doubt you have, so we schedule a live 30 to 40-min meeting on Google Meet or Discord (Your choice). The topics we can encompass in pseudocode (or Python or single notes) are:
 - Basic concepts (What's programming, introduction to programming languages, syntax's).
 - Variables.
 - Datatypes and Data Structures
