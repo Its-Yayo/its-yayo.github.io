@@ -17,13 +17,13 @@ Github Resource [here](https://github.com/Its-Yayo/f-test)
 ## Intro
 I had to make a web app for a complete architecture project. This include 2 mobile apps made with Kotlin, a fully-functional dynamic web app and an RDS DB instance. My team's doing both mobile apps (Yea, I'm not an Android dev lmao), so I focused on making this website. I'll say one of the members of my team helped me with the client-side code. (Yea, also the ```XMLHttpRequest();``` stuff). I was focused more in the server-side code, since I have more experience with it. 
 
-In April 2023, I learnt Express.js, a backend framework to build minimal APIs for Node and JavaScript. I wasn't comfortable with it a lot (and not because my professor wasn't teach it well. In fact, he is one of the best programming teachers I've ever had) because JavaScript is not a language I really love. It's good for basic stuff and for beginners but I'ma say I'd rather use Python or Rust (soooooon). Also, I find the fact that I cannot learn so quite a bit at the time I'm surrounded with my fellow extroverts haha. I need some space to learn, to capture more knowledge to my fully-prepared brain. I discarted Express.js for this project for time reasons but also I needed to build something with passion and discipline. 
+I learnt Express.js, a backend framework to build minimal APIs for Node and JavaScript. I wasn't comfortable with it a lot (and not because my professor wasn't teach it well. In fact, he is one of the best programming teachers I've ever had) because JavaScript is not a language I really love. It's good for basic stuff and for beginners but I'ma say I'd rather use Python or Rust (soooooon). Also, I find the fact that I cannot learn so quite a bit at the time I'm surrounded with my fellow extroverts haha. I need some space to learn, to capture more knowledge to my fully-prepared brain. I discarted Express.js for this project for time reasons but also I needed to build something with passion and discipline. 
 
 My professor suggested me Flask as a good option framework with Python. I didn't know how th I'd implement Flask in the whole app. I started resourcing by myself in a week we call "Semana Tec", which is like an week-off once we finish a period (A semester has 3 periods). 
 
 Before starting this journey, I'll say that previously I had some knowledge about HTTP methods, status codes and basic APIs development since my experience with Express.js. But, as I said before, I didn't learne quite a bit so I checked it again by my own before starting out. 
 
-Yea, that's when I proposed myself I can learn a whole framework within 2 days. For that, I needed to find a good idea for a project that may allow me to learn Flask. Then, back in Sep 11 2023, I decided to make F-test.
+Yea, that's when I proposed myself I can learn a whole framework within 2 days. For that, I needed to find a good idea for a project that may allow me to learn Flask. Then, I decided to make F-test.
 
 ## F-test
 Originally, F-test was a BMI calculator. A basic web app and super boring lmao. I improved it by setting up a new goal: A single app that sends, edits and deletes data from a single HTTP layout. Where is this data stored? Yea, good question. Remember I said something about an RDS DB instance? Yea, well... I used MariaDB as the DBMS since I had experience with MySQL back in the day. Also. I used SQL Server someday but I didn't like it at all lol. 
@@ -34,7 +34,7 @@ Anyways, for this project, I needed to make the design, the requirements .txt, e
 $ pip install flask werkzeug python-dotenv tenacity mariadb
 ```
 
-I did all stuff a software developer would do (I'm not referring to drink 8 cups of coffee). I set up my environment, my project distribution by folders, etc. I created my .env and .gitignore for my env variables in Python. 
+I did all stuff a software developer would do (I'm not referring to drink 8 cups of coffee). I set up my environment, my project distribution by folders, etc. I created my .env and .gitignore for my environment variables in Python. 
 
 And I moved on. I needed to make the app functional first rather than deploying it useless but with a good look. I created a simple HTML format and I started to make tests. 
 
@@ -71,7 +71,8 @@ app.secret_key = os.getenv('DB_SECRET_KEY')
 Easy peasy again. Now I can show the data? No, wait. I need the DB connection.
 
 ```python
-#!/usr/bin/env python3
+#!/usr/bin/python3
+
 from dotenv import load_dotenv
 import mariadb
 import os
@@ -100,7 +101,9 @@ def connection() -> mariadb.Connection:
 
 Alrighty then. Now may I? Sure, let's do it.
 ```python
-@main.route("/")
+#!/usr/bin/python3
+
+@app.route("/")
 def root() -> str:
     conn = connection()
     cur = conn.cursor()
@@ -150,10 +153,7 @@ With jinja2, I'm using divs to make a table where I will allocate the data. Insi
 Inside the UI, I need to store, edit and delete data. I'll not do that by queries using phpmyadmin dude, the client is not going to be happy with that lmao. Anyways, I need the endpoints to make all these stuff ("/all_contact", "/edit_contact/<parameter>", "/delete_contact/<parameter>" and "/delete_contact/<parameter>"). NOTE: You also can clone the repo resource to test it by yourself.  
 
 ```python
-#!/usr/bin/env python3
-from flask import render_template, request, redirect, url_for, flash
-from connection import connection
-import mariadb
+#!/usr/bin/python3
 
 @app.route("/add_contact", methods=['GET', 'POST'])
 def add_user():
@@ -192,11 +192,7 @@ Now that u know I did this, we can code the rest of the APIs. I need to delete a
 Well, let's start with delete. For instance, there's an HTTP method called DELETE. However, I don't specifically to detail the DELETE method with Flask, the framework is doing that for you. But this doesn't mean you don't need to put it in the code if you are using another framework/language. For example, ExpressJS with JavaScript or sometimes Ruby on Rails with Ruby uses this typo to execute the method (unless you wanna get an 405 error lmao). If you wanna modify the code and try it by yourself, go ahead. 
 
 ```python
-#!/usr/bin/env python3
-from flask import render_template, request, redirect, url_for, flash
-from connection import connection
-from werkzeug import Response
-import mariadb
+#!/usr/bin/python3
 
 @app.route("/delete_contact/<string:id>")
 def delete_contact(id: int) -> Response:
@@ -242,10 +238,6 @@ Now, what about editing data? Well, that's curious because I firstly need to ret
 First, I need to retrieve the data as I said before.
 ```python
 #!/usr/bin/env python3
-from flask import render_template, request, redirect, url_for, flash
-from connection import connection
-from werkzeug import Response
-import mariadb
 
 @app.route("/edit_contact/<string:id>", methods=['GET'])
 def get_contact(id: int) -> str:
@@ -261,7 +253,9 @@ def get_contact(id: int) -> str:
 Now that I have this, I can edit it. (Note, the previous function returns the template and the contact I'll edit.)
 
 ```python
-@main.route("/update_contact/<string:id>", methods=['POST'])
+#!/usr/bin/python3
+
+@app.route("/update_contact/<string:id>", methods=['POST'])
 def update_contact(id: int) -> Response | str:
     if request.method == 'POST':
         try:
@@ -283,7 +277,8 @@ def update_contact(id: int) -> Response | str:
 Now that I'm done, let's deploy the page to see if it works. (Note, while I was developing F-test, I didn't really use Postman to check if the APIs were working properly since it's a really small project. Remember, I had no idea about Flask until now :) ). 
 
 ```python
-#!/usr/bin/env python3
+#!/usr/bin/python3
+
 from app import app
 import sys
 
@@ -292,7 +287,21 @@ if __name__ == '__main__':
     sys.exit(0)
 ```
 
-Now's done! This will deploy a local server running on port 5000 by default. However, you can specify it with the ```port=""``` arg. Note that once you finish running, you must press ctrl+c to kill the process. I have OCD, I mind if I keep a server listening on any port lmao. 
+Now's done! This will deploy a local server running on port 5000 by default. However, you can specify it with the ```port=""``` arg. Note that once you finish running, you must press ctrl+c to kill the process (or you just can do the following if u didn't kill the process accidently, only applies for Linux):
+
+FIrst, check the process' PID (that's a number, like 960 or 1738)
+
+```bash
+$ sudo netstat -anp | more
+```
+
+Next, kill it 
+
+```bash
+$ sudo kill -9 <PID>
+```
+
+It's very important to me to keep ports non-listenable for hackers in case they use nmap to exploit 'em lmao
 
 
 ## Conclusion
