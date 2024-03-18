@@ -60,7 +60,7 @@ SELECT * FROM contacts
 Easy peasy. Just I need to figure out how I will show this. Alright. But, waittttt, I need to create the Flask project with the dependencies I installed before!
 
 ```python
-#!/usr/bin/env python3
+#!/usr/bin/python3
 from flask import Flask
 import os
 
@@ -237,7 +237,7 @@ Now, what about editing data? Well, that's curious because I firstly need to ret
 
 First, I need to retrieve the data as I said before.
 ```python
-#!/usr/bin/env python3
+#!/usr/bin/python3
 
 @app.route("/edit_contact/<string:id>", methods=['GET'])
 def get_contact(id: int) -> str:
