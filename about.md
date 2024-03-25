@@ -40,7 +40,7 @@ Usually, I'm a hard-disciplined guy who learnt a lot in his past. I've learnt so
 - "That dream that you've holding in your mind, it's real"
 - "When people say you can't do it, those people is showing you their limits, not yours"
 - "It's very important for you to believe that you are the one"
-- "The lifehack of a gorwing life is not seeing what didn't happen, but seeing what you did to make up for it"
+- "The lifehack of a growing life is not seeing what didn't happen, but seeing what you did to make up for it"
 - "If motivation fails, the discipline will help it to grow"
 
 Peace coding fellas :)
