@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: [Python, Asyncio]
-author: Luis De León
 ---
 
 ## Table of Contents

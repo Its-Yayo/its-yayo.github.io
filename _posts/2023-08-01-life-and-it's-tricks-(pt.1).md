@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: [life, faith, love, passion]
-author: Luis De León
 ---
 
 ## Table of Contents

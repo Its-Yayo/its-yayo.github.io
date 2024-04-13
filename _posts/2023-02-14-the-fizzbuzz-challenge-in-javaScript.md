@@ -1,7 +1,7 @@
 ---
 layout: post
+title: The Fizzbuzz Challenge in JavaScript
 tags: [JavaScript, Node]
-author: Luis De León
 ---
 
 

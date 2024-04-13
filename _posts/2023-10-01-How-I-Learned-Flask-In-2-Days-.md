@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: [Python, Flask, Backend, Web Dev]
-author: Luis De León
 ---
 Github Resource [here](https://github.com/Its-Yayo/f-test)
 
