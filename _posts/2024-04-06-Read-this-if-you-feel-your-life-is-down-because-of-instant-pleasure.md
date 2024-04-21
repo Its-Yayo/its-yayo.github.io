@@ -121,7 +121,7 @@ Now you know this, **lemme tell ya how this have a relationship with social netw
 
 
 ### What happens if you don't take control of it?
-As I said earlier, you start to take some actions. BUt, **the most of those decisions are being develped without you realizing it, there will be a certain moment that there's no control over you being, your mind and your body**. But also, those actions will bring you pleasure and, at the end of the day, you goal is to reach that point, you need it. 
+As I said earlier, you start to take some actions. But, **the most of those decisions are being develped without you realizing it, there will be a certain moment that there's no control over you being, your mind and your body**. But also, those actions will bring you pleasure and, at the end of the day, you goal is to reach that point, you need it. 
 
 I'll give you another example: You got $2000 in your bank account. Maybe that's your monthly salary. Then, you stare to a pair of shoes that look so attractive. They cost around $1500 and they are in a one-moment lower price. You cannot resist. Now, you mom suggested you to keep and earn them. You don't care and you buy the shoes, so you got left $500. The next week you stare at a beautiful collar that costs $300 but you remember your brother told ya to invest and move your money. You don't care neither and then you buy your collar, so now you got $200 left. What happened right now is that you got $2000 and in less than 2 weeks, you already spent $1800. Of course, this example is just with $2000. Now. imagine what you can do with $500,000. **The temptation level is proportional to the amount of the same.** What am I trying to tell ya with this? Is that more money you have, more desire you have to spend it. 
 
