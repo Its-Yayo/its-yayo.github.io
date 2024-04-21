@@ -139,7 +139,7 @@ Now you know that pleasure comes from the hormones, I can share you the followin
 
 I was noticing this, I remember I used to spend hours seeing instagram stories. (I wanted to see how everyone was partying without me and that generated me some serotonin, I was not partying then and well, I was better than them so I could workout without any problem. Obviously I had to re-educate my mind), also I sepend a lot of my time watching old chats from the people I used to talk on ig or facebook, I wanted to be aware with local gossips to research famous people. All of that was rounded in just one word: Information.
 
-What did I change in myself to avoid all of this stuff? Simply I **changed my information, I created through my mind or look up for some reliable sources to care my mental health**. Basically, I changed what I see day after day, I deleted instagram and fabcebook, I set up my X's recomendation posts (which well, it's not discarted that I may delete X as well), I started to read more, as well as some nutritional and mental habits. **I remember that I'm myself in this path and I can be flexible as long as it doesn't affect my purpose/eternity.**
+What did I change in myself to avoid all of this stuff? Simply I **changed my information, I created through my mind or look up for some reliable sources to care my mental health**. Basically, I changed what I see day after day, I deleted instagram and facebook, I set up my X's recomendation posts (which well, it's not discarted that I may delete X as well), I started to read more, as well as some nutritional and mental habits. **I remember that I'm myself in this path and I can be flexible as long as it doesn't affect my purpose/eternity.**
 
 This involves changing some habits, you have to non-educate what you've learnt before and start learning new things with your own new mentality. This involves also, tough and very difficult activities, because it's a process that takes a lot of time to adapt. Much of the things that you used to like before are not allowed anymore, because they will take you again into your comfort zone.
 
@@ -150,7 +150,7 @@ I was in that way, when I was just living a life, I was waiting for the good mar
 What's gonna happen next is that you start to believe all the stuff I said before. I can't tell ya what you exactly have to do, because that's something you have to discover for ur own path. 
 
 
-> "Your mind needs to be flexible, like water. But also, it needs to be a solid, like a glass. Your actions may be flexible day after day, without forgetting that you're building youself." - Me :)
+> "Your mind needs to be flexible, like water. But also, it needs to be a solid, like a glass. Your actions may be kinda flexible day after day, without forgetting that you're building youself." - Me :)
 
 
 
