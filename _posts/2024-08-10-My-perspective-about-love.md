@@ -12,7 +12,7 @@ person you like, or maybe there are people that don't believe or don't care too 
 properly standarized definition for the word "love". Richard Schwartz, a professor of psychiatry at HMS (Harvard Medical School) says that "It’s fairly complex, and we only know a little about it", refering to love.
 "There are different phases and moods of love. The early phase of love is quite different". 
 
-This means that your brain is actually leveling from normal to huge amoutn of hormones during first stages of love. Then, it will depend for each people if these hormones are regulated or not. This is why usually people
+This means that your brain is actually leveling from normal to huge amount of hormones during first stages of love. Then, it will depend for each people if these hormones are regulated or not. This is why usually people
 feel so much downed in a breakup because the level of dopamine is actually very low. Now, I discovered that love is not just closed to a relationship with someone, but is also has a relation with yourself, with your daily activities
 and with things you care. Let me explain.
 
