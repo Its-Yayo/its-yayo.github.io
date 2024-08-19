@@ -20,5 +20,4 @@ Usually you can reach me likely these hours (afterworks):
 - [My LinkedIn](https://www.linkedin.com/in/luis-de-le%C3%B3n-a2b3bb245/)
 - [My Reddit](https://www.reddit.com/user/Elyayoveloz)
 - [My Telegram](https://t.me/Elyayoveloz/)
-- [My Threads](https://www.threads.net/@elyayoveloz_)
 - [My buymeacoffee page](https://www.buymeacoffee.com/elyayoveloz)
