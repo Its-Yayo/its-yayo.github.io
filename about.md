@@ -21,12 +21,12 @@ I know it's a simple code, but it was awesome to see how high-level code is tran
 I'm a geek and grown man guy. Let's list a few of 'em:
 - I like to do researches about the brain and the mind to modify it in a positive way on the trascendence of the human being (eternity)
 - I like riced OS distributions. Check out the [r/unixporn](https://www.reddit.com/r/unixporn/) Reddit community. 
-- I like bowling, my current style to play is the 2-handed one.
-- I like Chess, I used to have +1400 but after 2-3 years without playing, my ratio went down to +800. 
+- I like bowling, my current style to play is the 2-handed one, my highest score for now is 206, 158.7 avg
+- I like to play chess, I'm improving my ratio :)
 - I like drawing and taking pics of cute landscapes and showing 'em to special people.
 - Besides programming and computing, my other passions are also space, military infraestructure, aviation and motorsport.
 - Recently I started to listen piano and reflective music for work.
-- MY fav genre of all time is phonk, it helps me a lot with motivation, discipline, coding, to be myself and **to build my purpose/eternity**. Some good artists I like are: INTERWORLD, Kordhell, Dxrk ダーク, phonk.me, Isolate.exe, glichery, MoonDeity, DVRST, Mareux, etc... 
+- My fav genre of all time is phonk, it helps me a lot with motivation, discipline, coding, to be myself and **to build my purpose/eternity**. Some good artists I like are: INTERWORLD, Kordhell, Dxrk ダーク, phonk.me, Isolate.exe, glichery, MoonDeity, DVRST, Mareux, etc... 
 - Also I love metal music. Some good bands are: Iron Maiden, Metallica, Overkill, Exodus, Kiss, Y&T, Stratovarius, Helloween, DRI, Municipal Waste, Skull Fist, Enforcer, etc...
 - But also, I like synthwave retro (VHS Dreams, Waveshaper), 80s and current pop spanish music (Soda Stereo, Juanes, Sin Bandera), electronic music (Daft Punk, Martin Garrix)
 - I like Star Wars. However, my fav movie is Interstellar
