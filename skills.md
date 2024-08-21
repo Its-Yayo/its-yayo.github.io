@@ -35,7 +35,7 @@ title: Skills
 - Pivoting (Proxychains, SSH Tunnels...)
 - Extra Tools (Metasploit, SQLMap)
 
-## Current topics for D&A 
+## Current topics for DSA 
 - Big O Notation
 - Sorting Algorithms
 - Searching Algorithms
