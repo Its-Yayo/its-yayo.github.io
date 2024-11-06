@@ -28,7 +28,7 @@ I'm a geek and grown man guy. Let's list a few of 'em:
 - Recently I started to listen piano and reflective music for work.
 - My first fav music genre of all time is phonk, it helps me a lot with motivation, discipline, coding, to be myself and **to build my purpose/eternity**. Some good artists I like are: INTERWORLD, Kordhell, Dxrk ダーク, phonk.me, Isolate.exe, glichery, MoonDeity, DVRST, Mareux, etc... 
 - My second fav music gente of all time is metal. It helps me to remind myself why I'm different. Some good bands are: Dragonforce, Iron Maiden, Metallica, Overkill, Exodus, Kiss, Y&T, Stratovarius, Helloween, DRI, Municipal Waste, Skull Fist, Enforcer, etc...
-- But also, I like synthwave retro (VHS Dreams, Waveshaper), 80s and current pop spanish music (Soda Stereo, Juanes, Sin Bandera), electronic music (Daft Punk, Martin Garrix)
+- But also, I like synthwave retro (VHS Dreams, Waveshaper), retro and pop spanish music (Soda Stereo, Juanes), electronic music (Daft Punk, Martin Garrix)
 - I like Star Wars. However, my fav movie is Interstellar
 - I like to challenge myself with new challenges. (To assemble a new lego, to try a new coding problem with a new algorithm, test out my math skills...)
 
