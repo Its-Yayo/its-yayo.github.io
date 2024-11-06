@@ -14,7 +14,7 @@ I discovered the BASIC language. That one was used as the default language for t
 30 PRINT X + Y
 RUN
 ```
-I know it's a simple code, but it was awesome to see how high-level code is translated into machine code. Well, I started to investigate about more programming languages, the history of the computers and computer companies and recently, computing theories. Also, I moved on with some hardware (EPPROMs, RAMs and ROMs memories) and software stuff (Agile Software, Software Life Cycle, Testing). 
+I know it's a simple code, but it was awesome to see how high-level code is translated into machine code. Well, I started to research about more programming languages and computing theories, but also how is the relationship between the mind and programming. Also, I moved on with some hardware (EPPROMs, RAMs and ROMs memories) and software stuff (Agile Software, Software Life Cycle, Testing). 
 
 
 ## Hobbies
@@ -32,6 +32,7 @@ I know it's a simple code, but it was awesome to see how high-level code is tran
 - I like to challenge myself with new challenges. (To assemble a new lego, to try a new coding problem with a new algorithm, test out my math skills...)
 
 ## Favorite Quotes
+- "And the end of the day, it's you and you. or, have you ever seen a group of eagles going for the same target?"
 - "Talk is cheap. Show me the code"
 - "That dream that you've holding in your mind, it's real"
 - "When people say you can't do it, those people is showing you their limits, not yours"
