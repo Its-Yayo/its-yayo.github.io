@@ -18,7 +18,6 @@ I know it's a simple code, but it was awesome to see how high-level code is tran
 
 
 ## Hobbies
-I'm a geek and grown man guy. Let's list a few of 'em:
 - I like to do researches about the brain and the mind to modify it in a positive way on the trascendence of the human being (eternity)
 - I like riced OS distributions. Check out the [r/unixporn](https://www.reddit.com/r/unixporn/) Reddit community. 
 - I like bowling, my current style to play is the 2-handed one, my highest score for now is 219, 165.2 avg
