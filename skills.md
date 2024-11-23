@@ -42,7 +42,7 @@ title: Skills
 - Lists, Arrays, Queues, Stacks..
 - Soon...!
 
-## Current Lab for Productivity
-I have my Asus VivoBook 14 running 2 OS locally. Just I can switch with the one I wanna use in the GNU Grub bootloader. I use Linux 100%, so I have a 700 GB partition for a customized Linux Mint 21.3 Virginia (for now) and I use it for Windows apps (with Wine), some games, general development, container deployments, virtual machines and basically the stuff I used to do when I had Windows. Also I have a 300 GB partition for a fully customized Ubuntu 22.04 LTS with rofi, openbox and tint2. I basically deleted the GNOME default desktop haha. I use it for virtual machines as well (with QEMU/KVM), some terminal hints, some music with Spotify (GUI and CLI) and development. I use both OS' to take notes about myself and to play chess. 
+## My Lab
+I use Debian GNU/Linux 12 as my proper primarly OS and probably I'll use it foverver. I used to have Windows 10 and 11 but not anymore. I store my VMs with QEMU/KVM, I play some videogames on steam and local .deb packages, I code and develop programs and packages as well (and still learning), and I use it as whatever I want. The single reason why I chose Debian is because one single true purpose and it is because of the love to true software and researches over money and commercial lack-of-purpose software. Also because I like control and privacy. Yea, I have to setup things in my /etc/apt/sources.list file but I mean, that's becuase I want to. I feel that's a true energy from my deep purpose/eternity path.  
 
 Peace coding fellas :)
