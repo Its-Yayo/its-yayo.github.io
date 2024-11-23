@@ -43,6 +43,6 @@ title: Skills
 - Soon...!
 
 ## My Lab
-I use Debian GNU/Linux 12 as my proper primarly OS and probably I'll use it foverver. I used to have Windows 10 and 11 but not anymore. I store my VMs with QEMU/KVM, I play some videogames on steam and local .deb packages, I code and develop programs and packages as well (and still learning), and I use it as whatever I want. The single reason why I chose Debian is because one single true purpose and it is because of the love to true software and researches over money and commercial lack-of-purpose software. Also because I like control and privacy. Yea, I have to setup things in my ```/etc/apt/sources.list``` file but I mean, that's becuase I want to. I feel that's a true energy from my deep purpose/eternity path.  
+I use Debian GNU/Linux 12 as my proper primarly OS and probably I'll use it foverver. I used to have Windows 10 and 11 but not anymore. I store my VMs with QEMU/KVM, I play some videogames on steam and local .deb packages, I code and develop programs and packages as well (and still learning), I do my researches as well and I use it as whatever I want. The single reason why I chose Debian is because one single true purpose and it is because of the love to true software and researches over money and commercial lack-of-purpose software. Also because I like control and privacy. Yea, I have to setup things in my ```/etc/apt/sources.list``` file but I mean, that's becuase I want to. I feel that's a true energy from my deep purpose/eternity path.  
 
 Peace coding fellas :)
