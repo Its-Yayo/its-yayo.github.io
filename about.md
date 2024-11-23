@@ -4,7 +4,9 @@ title: About
 ---
 
 ## Basics
-I'm Luis De León, or Elyayoveloz :). I'm studying a Software Engineering (In spanish, Ingeniería en Tecnologías Computacionales or Ingeniería en Software) degree. Also, I'm a junior software engineer and pentester / red team student. These guys are the ones who protect a company by attacking it lmao. Also, I'm a DevOps and DevSecOps enthusiastic.
+Btw this was [my first](https://y4yorc.github.io/) site page so u mught check it out haha, now it's totally different. 
+
+I'm Elyayoveloz or Yayo (or Yayitz) :). I'm studying a Software Engineering (In spanish, Ingeniería en Tecnologías Computacionales or Ingeniería en Software) degree. Also, I'm a junior software engineer and pentester / red team student. These guys are the ones who protect a company by attacking it lmao. Also, I'm a DevOps and DevSecOps enthusiastic.
 
 ## Why did I start programming?
 I discovered the BASIC language. That one was used as the default language for the Apple II, the VIC-20, the Atari 400 and 800, etc. I tried a BASIC emulator from a Commodore 64 and then, I tried to code something. I remember I did a simple program, like this:
