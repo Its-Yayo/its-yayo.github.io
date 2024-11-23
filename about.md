@@ -14,7 +14,7 @@ I discovered the BASIC language. That one was used as the default language for t
 30 PRINT X + Y
 RUN
 ```
-I know it's a simple code, but it was awesome to see how high-level code is translated into machine code. Well, I started to research about more programming languages and computing theories, but also how is the relationship between the mind and programming. Also, I moved on with some hardware (EPPROMs, RAMs and ROMs memories) and software stuff (Agile Software, Software Life Cycle, Testing). 
+I know it's a simple code, but it was awesome to see how high-level code is translated into machine code. Well, I started to research about more programming languages and computing theories, but also how is the relationship between the mind and programming. Also, I moved on with some hardware (EPPROMs, RAMs and ROMs memories) and software stuff (Agile Software, Software Life Cycle, Testing). I love GNU/Linux and open-source software. 
 
 
 ## Hobbies
