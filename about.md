@@ -4,7 +4,7 @@ title: About
 ---
 
 ## Basics
-Btw this was [my first](https://y4yorc.github.io/) site page so u mught check it out haha, now it's totally different. 
+Btw, this was [my first](https://y4yorc.github.io/) site page and now it is archived so u can check it out haha, now it's totally different. 
 
 I'm Elyayoveloz or Yayo (or Yayitz) :). I'm studying a Software Engineering (In spanish, Ingeniería en Tecnologías Computacionales or Ingeniería en Software) degree. Also, I'm a junior software engineer and pentester / red team student. These guys are the ones who protect a company by attacking it lmao. Also, I'm a DevOps and DevSecOps enthusiastic.
 
