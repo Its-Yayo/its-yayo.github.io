@@ -208,7 +208,7 @@ While I was doing this, I noticed that, well, my main core Arch was not installe
 $ ip addr
 ```
 
-My VM is using NAT since my host (my beaity lap with Debian) doesn't have ethernet ports and I had not support for bridged interfaces because of my limited resources. (I tried everything, creating a new interface with ```ip link add``` didn't work) 
+My VM is using NAT since my host (my beauty lap with Debian) doesn't have ethernet ports and I had not support for bridged interfaces because of my limited resources. (I tried everything, creating a new interface with ```ip link add``` didn't work) 
 My interface in the VM is ```enp1s0``` but the state is down (Check out the line that says ```STATE DOWN``` or ```STATE UP```) and i had not any IP assigned to it and since I'm using NAT,
 I need to setup my IP manually, alongside the gateway. And also, I have to edit the ```/etc/resolv.conf``` file to add the Google's DNS in order to test my manual config.
 
