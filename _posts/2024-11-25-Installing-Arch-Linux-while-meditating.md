@@ -218,7 +218,8 @@ $ sudo ip addr add 192.168.122.100/24 dev enp1s0
 $ sudo ip route add default via 192.168.122.1
 ```
 
-(Note, everytime I boot the system I need to repeat this process since I'm assiigning the IPs manually and not by a default DHCP.(Maybe later I'll set them on) 
+(Note, everytime I boot the system I need to repeat this process since I'm assiigning the IPs manually and not by a default DHCP. Maybe later I'll set them on) 
+
 Now that I have internet and I tested it out by pinging Google's servers, now I can install some fresh packages.
 
 Let's install a graphical environment. I use gnome so I'll install it, as well as the Gnome Display Manager (gdm) for user's logins and sessions. (It took some time to install it so I paused a minute to keep meditating)
