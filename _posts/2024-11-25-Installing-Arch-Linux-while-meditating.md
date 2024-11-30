@@ -241,4 +241,4 @@ I just remember myself my first time in Linux using Ubuntu 20.04 in a Windows 10
 Soon I'll post an article about the Linux filesystem and how it works!. Thank you for reading, I hope you have a great day ♡. 
 
 
-
+(Unexpected note, I just deleted by accident my VM I just did haha, anyways, I'll do it again, again. Let's gooooo)
