@@ -126,7 +126,7 @@ Now I need to configure the local language of the Arch core system. I'll use eng
 
 ```bash
 $ pacman -S nano
-$ nano /etc/locale
+$ nano /etc/locale.gen
 $ locale-gen
 ```
 
