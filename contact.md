@@ -8,7 +8,7 @@ title: Contact
 
 
 ## Office hours:
-I mostly answer DMs on X (Twitter) and Telegram, but also you can [mail](mailto:elyayoveloz@gmail.com) me for a programming collab. That'd be great!
+I mostly answer DMs on X (Twitter) and Telegram, but also you can [mail](mailto:elyayoveloz@tutamail.com) me for a programming collab. That'd be great!
 
 Usually you can reach me likely these hours (afterworks):
 - Week Days: 7-8 pm
