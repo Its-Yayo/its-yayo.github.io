@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
 html { height: 100%; }
 
 body {
-  font-family:  "Cantarell", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-family:  "Lato", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
 }
 pre, code {
-  font-family: "Roboto Mono", "Courier New", monospace;
+  font-family: "Fira Code", "Courier New", monospace;
   font-size: 0.9rem;
 }
 
@@ -84,7 +84,7 @@ img {
       --headings: #74c0fc;
       --links: #91A7FF;
       --highlight: #41C7C7;
-      --bg: #0b0621;
+      --bg: #272727
       --bg-secondary: #323945;
       --text: #d5d3e0;
       --text-secondary: #9CA3AF;
@@ -212,7 +212,7 @@ p code, li code {
   }
 }
 .tag {
-  font-family: "Roboto Mono", "Courier New", monospace;
+  font-family: "Cantarell", "Courier New", monospace;
   color: var(--text-secondary);
   padding: 0.4em 1em;
   margin-right: 0.5em;
