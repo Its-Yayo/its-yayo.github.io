@@ -19,7 +19,7 @@ You are thinking a lot because your amygdala is very hyper-activated because of 
 Because you have an hyperactivity of the amygdala, your PFC has reduced control. Your HPA axis (hypothalamic-pituitary-adrenal) is now being triggered and you release cortisol. Cortisol will inhibit your capability of reasoning and you will end up in a loop cycle filled with non-real thoughts and basically, a non-reality paradygma. Your hippocampus will trigger false signs of fear. 
 
 Let put it in this way:
-```C++
+```c++
 bool no_inner_peace = true;
 
 void thought() {
@@ -38,7 +38,7 @@ Because ur inner peace is non-existent, you will trigger that cycle inconsciousl
 
 Now, what's next? You gotta break that cycle with something. There's no need to change your inner peace drastically but instead, try giving yourself some space to meditate to find it (not to change it). I'll give you 10 seconds to meditate and when that finishes, you will discover how amazing you are for controlling your mind and actions.
 
-```C++
+```c++
 bool no_inner_peace = true;
 int meditation = 0;
 
