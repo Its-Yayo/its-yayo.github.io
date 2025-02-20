@@ -6,7 +6,7 @@ tags: [self-love, mind, neurology]
 
 It's just a thought. 
 
-Whatever you have on your mind, it is just simple, non-real thought. I know, it is something that with some words can't be understood. 
+Whatever you it's on your mind, it is just simple, non-real thought. I know, it is something that with some words can't be understood. 
 
 Let me explain. The amygdala is complex part of your mind and its function basically to manage your emotions. Your dorsolateral PFC (prefrontal cortex) is responsible for your logical reasoning. The DMN (Default Mode Network) is a network of brain regions that are active when someone is reflecting in a very deep basis. (Me everyday lol). Your hippocampus is responsible of contextualizing fear responses. 
 
