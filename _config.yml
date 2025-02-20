@@ -1,5 +1,5 @@
 title: Yayo's Site
-author: Luis De León
+author: Yayo
 url: https://www.its-yayo.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   "In the busy activities of daily existence, thought discipline is required if you are 
@@ -10,10 +10,6 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
-
-twitter:
-    username: elyayoveloz # update or delete this
-    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
