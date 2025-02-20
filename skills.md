@@ -4,23 +4,16 @@ title: Skills
 ---
 
 ## Current Skills 
+- Advanced Linux filesystem 
 - Basic Bash Concepts (Shell and Scripting)
 - Intermediate Python (Mainly for exploiting)
-- Intermediate C/C++ (Mainly for vulnerabilities) 
-- Intermediate JavaScript (Mainly for server deploys for testing)
+- Basic/Intermediate C/C++ (Mainly for vulnerabilities) 
 - Backend Development
-- Basic Async Programming
-- Basic Clouding concepts (IaaS, SaaS, PaaS)
+- Async Programming
+- Clouding concepts (IaaS, SaaS, PaaS...)
 - Networking concepts (OSI Model, Topology's Networks...)
 
-## Current Goals
-- To learn Rust, Go and Perl as my mainly languages to exploit vulnerabiltiies
-- To be certified in any of these (CEH, OSCP, OSCE (this one after OSCP), eJPT, eWPT, eCCPTv2 and LPT) for now. 
-- To increase my record list in the [CVE](https://cve.org/) (Common vulnerabilities and Exposures). 
-- To learn more about malwares and which vulnerabilities they use. 
-- To work as a pentester for fun :)
-
-## Current Topics for Red Team
+## What I'm learning for Red Teaming
 - Networking Concepts (IPv4, IPv6, Subnetting...)
 - Recognisance (Nmap scanning, local ARP and ICMP nets, fuzzing, files enumeration...)
 - Docker Deployment (Port forwarding, Docker containers...)
@@ -35,14 +28,6 @@ title: Skills
 - Pivoting (Proxychains, SSH Tunnels...)
 - Extra Tools (Metasploit, SQLMap)
 
-## Current topics for DSA 
-- Big O Notation
-- Sorting Algorithms
-- Searching Algorithms
-- Lists, Arrays, Queues, Stacks..
-- Soon...!
-
 ## My Lab
-I use Arch Linux and Debian GNU/Linux 12 as my proper OSs to work and probably I'll use them forever. I used to have Windows 10 and 11 but not anymore. I store my VMs with QEMU/KVM, I play some videogames on steam and local .deb packages and flatpak packages, I code and develop programs and packages as well (and still learning), I do my researches as well and I use it as whatever I want. The single reason why I chose Debian is because one single true purpose and it is because of the love to true software and researches over money and commercial lack-of-purpose software. Also. the single reason why I chose Arch is because I like some sort of control but, I'm self-taught, I like to read documentation and I like to build great and inimaginable things from scratch, in this case, my Arch boot (Yea I installed it from zero). Also because I like control and privacy. Yea, I have to setup things in my ```/etc/apt/sources.list``` and ```/etc/pacman.conf``` files but I mean, that's because I want to. I feel that's a true energy from my deep purpose/eternity path.  
+I use Debian GNU/Linux 12 as my proper OSs to work and probably I'll use them forever. I store my VMs with QEMU/KVM, I play some videogames on steam and local .deb packages and flatpak packages, I code and develop programs and packages as well (and still learning), I do my researches as well and I use it as whatever I want. The single reason why I chose Debian is because one single true purpose and it is because of the love to true software and researches over money and commercial lack-of-purpose software. Also because I like control and privacy. Yea, I have to setup things in my ```/etc/apt/sources.list``` file but I mean, that's because I want to. I feel that's a true energy from my deep purpose/eternity path.  
 
-Peace coding fellas :)
