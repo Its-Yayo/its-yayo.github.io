@@ -29,5 +29,7 @@ title: Skills
 - Extra Tools (Metasploit, SQLMap)
 
 ## My Lab
-I use Debian GNU/Linux 12 as my proper OSs to work and probably I'll use them forever. I store my VMs with QEMU/KVM, I play some videogames on steam and local .deb packages and flatpak packages, I code and develop programs and packages as well (and still learning), I do my researches as well and I use it as whatever I want. The single reason why I chose Debian is because one single true purpose and it is because of the love to true software and researches over money and commercial lack-of-purpose software. Also because I like control and privacy. Yea, I have to setup things in my ```/etc/apt/sources.list``` file but I mean, that's because I want to. I feel that's a true energy from my deep purpose/eternity path.  
 
+I use OpenSUSE Tumbleweed as my proper OSs to work and probably I'll use them forever. I store my VMs with QEMU/KVM, I play some videogames on steam and local packages and flatpak packages, I code and develop programs and packages as well (and still learning), I do my researches as well and I use it as whatever I want. The single reason why I chose OpenSUSE is because one single true purpose and it is because of the a merged between Debian (love to true software, stability and researches over money and commercial lack-of-purpose software) and Arch (Do-it-yourself approach where I can learn a lot).
+Both distros are my favs of all time, but now OpenSUSE is now added to the list :)
+Also because I like control and privacy. 
