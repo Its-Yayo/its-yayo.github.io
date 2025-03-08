@@ -30,6 +30,7 @@ title: Skills
 
 ## My Lab
 
-I use OpenSUSE Tumbleweed as my proper OS to work and probably I'll use it forever. I store my VMs with QEMU/KVM, I play some videogames on steam withnlocal and flatpak packages, I code and develop programs and packages as well (and still learning), I do my researches as well and I use it as whatever I want. The single reason why I chose OpenSUSE is because one single true purpose and it is because of the a merged between Debian (love to true software, stability and researches over money and commercial lack-of-purpose software) and Arch (Do-it-yourself approach where I can learn a lot).
-Both distros are my favs of all time, but now OpenSUSE is now added to the list :)
+I love Linux. I use NixOS as my proper OS to work and probably I'll use it forever. I store my VMs, I play some videogames on steam with local and flatpak packages, I code and develop programs and packages as well (and still learning), I do my researches as well and I use it as whatever I want.) I chose NixOS cuz it gives me peace and control over my actions to the world
 Also because I like control and privacy. 
+
+My fav Linux distros of all time are NixOS, Arch and Debian
