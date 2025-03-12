@@ -20,7 +20,7 @@ and pushes to main.
 I'm planning to use [Rust](https://www.rust-lang.org/) as the default programming language for the package manager's development. Mainly because it is fast, reliable, it has a good Linux integration
 with the kernel and some libraries like [libc](https://www.gnu.org/software/libc/), and it fixes common errors in C. I'll give more details about it soon!
 
-Linux does not have too much presence when it comes to Linux distros. I'm planning to reverse that with this great thing. This distro will not have any telemetry, contests or stuff like that. 
+Mexico does not have too much presence when it comes to Linux distros. I'm planning to reverse that with this great thing. This distro will not have any telemetry, contests or stuff like that. 
 
 Also, I'll develop this while meditating. My physical and mental health (apart from what I've been thing, discovering and researching (not related with this article) these days) is my first priority so,
 in this case, I'll use pomodoro sessions and some XP sessions. In case I need to take a break, I'll do it. 
