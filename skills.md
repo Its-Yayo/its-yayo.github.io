@@ -30,8 +30,6 @@ title: Skills
 
 ## My Lab
 
-I love Linux. I use NixOS as my proper OS to work and probably I'll use it forever. I store my VMs, I play some videogames on steam with local and flatpak packages, I code and develop programs and packages as well (and still learning), I do my researches as well and I use it as whatever I want.) I chose NixOS cuz it gives me peace and control over my actions to the world. Also because I like control and privacy. 
+I love Linux. I use Vanilla OS as my daily driver and prob I'll use it forever. I chose Vanilla OS because I wanted to be different by choosing an inmutable distro. I like to be minimalistic while developing and builing things. I currently have a Debian VM, a Red Hat 10 VM, a NixOS VM and an Arch VM lol. 
 
-I love setting things up in my ```/etc/nixos/configuration.nix``` file :)
-
-My fav Linux distros of all time are NixOS, Arch and Debian
+My fav Linux distros of all time are NixOS, Arch, Debian and ofc, Vanilla OS. 
