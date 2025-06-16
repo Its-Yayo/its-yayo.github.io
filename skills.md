@@ -30,6 +30,6 @@ title: Skills
 
 ## My Lab
 
-I love Linux. I use Vanilla OS as my daily driver and prob I'll use it forever. I chose Vanilla OS because I wanted to be different by choosing an inmutable distro. I like to be minimalistic while developing and builing things. I currently have a Debian VM, a Red Hat 10 VM, a NixOS VM and an Arch VM lol. 
+I love Linux. I use Vanilla OS as my daily driver and prob I'll use it forever. I chose Vanilla OS because I wanted to be different by choosing an inmutable distro. I like to be minimalistic while developing and builing things. I currently have a Debian VM, a Red Hat 10 VM, a NixOS VM and an Arch VM lol. I also have some containers with apx
 
 My fav Linux distros of all time are NixOS, Arch, Debian and ofc, Vanilla OS. 
