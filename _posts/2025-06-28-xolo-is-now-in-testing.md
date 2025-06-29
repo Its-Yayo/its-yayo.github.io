@@ -11,11 +11,11 @@ goal. Xolo Linux is a Debian-based distro focused on security, privacy and freed
 that represents freedom to you or as a security operating system for critical operations. Some specific bullet points:
 
 - Debian-based OS (testing channel)
-- Hrdened kernel (6.12 LTS for beta releases)
+- Hardened kernel (6.12 LTS for beta releases)
 - AppArmor and strong ufw rules
 - Some other great features coming out!...
 
-Also, as a beta release, we planned to develop a self-hosted model trained with Ollama locally. In other words, its like
+Also, as a beta release, we are planning to develop a self-hosted model trained with Ollama locally. In other words, its like
 a self-hosted copilot but only using your CPU (or NPU if u have one). You will be able to opt-in or opt-out at any moment.
 
 Xolo Linux will be a great distro, I already defined some flags with live-build at the moment of this article (Jun 28th). I did a ```build.sh``` bash script with the following structure (everything was built on an existing Debian Testing VM):
