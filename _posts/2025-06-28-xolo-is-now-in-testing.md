@@ -33,6 +33,6 @@ auto-enabling an automatic LVM-encrypted setup and some strong ufw rules. I migh
 are still on the run. 
 
 I wanted to write this a little bit earlier but I didn't. Tbh, these last 3 weeks were pretty tough for me, not only physically but mentally, just had a long semester. Fortunately, I'm very strong and my sentimental things are along with me everytime (I discovered some quantum 
-theories about them!, just noting them, they are not touchable. Just need to calm that somantic memory and irreal thoughts). Just felt that some close friends and people that I love just went away from me, y'know? I mean I can't do anything about that, but I can with my reaction. I love being lonely and having some peace. I'll keep meditating
+theories about them!, just noting them, they are not touchable. Just need to calm that somantic memory and irreal thoughts). Just felt that some close friends and people that I love just went away from me, y'know? I mean I can't do anything about that, but I can with my reaction. I love working by myself and having some peace. I'll keep meditating and working
 
 I'll keep y'all updated. Peace coding :))
