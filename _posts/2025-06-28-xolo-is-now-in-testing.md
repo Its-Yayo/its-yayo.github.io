@@ -7,11 +7,11 @@ tags: [linux, security]
 I've wanted to write this for a couple of weeks but now its the time. Right now its 8:40 pm and I'm just
 reflecting with myself about some mental thoughts I've been having lately. In the meantime, my team and I 
 already started with the development of Xolo so for starters, I made a couple of changes starting with the OS's flow and
-goal. Xolo Linux is a Debian-based distro focused on security, privacy and freedom built for daily use, whether if you wanna use as an operating system
-that represents freedom to you or as a security operating system for critical operations. Some specific bullet points:
+goal. Xolo Linux is a Debian-based distro focused on security, privacy and freedom built for daily use, whether you wanna use as an operating system
+that represents freedom to you or as a secure operating system for critical stuff. Some specific bullet points:
 
 - Debian-based OS (testing channel)
-- Hardened kernel (6.12 LTS for beta releases)
+- Hardened kernel with flags (6.12 LTS for beta releases)
 - AppArmor and strong ufw rules
 - Some other great features coming out!...
 
@@ -20,7 +20,7 @@ a self-hosted copilot but only using your CPU (or NPU if u have one). You will b
 
 Xolo Linux will be a great distro, I already defined some flags with live-build at the moment of this article (Jun 28th). I did a ```build.sh``` bash script with the following structure (everything was built on an existing Debian Testing VM):
 - I update the current system with new packages
-- ```set -e``` is going to set my shell as "no-exec mode", it just reads the stdin in order to read the syntaxis of the following instructions
+- ```set -e``` is going to set my shell as "no-exec mode", it just reads the stdin inside the file in order to read the syntaxis of the following instructions
 - I clean the previous build with ```rm -rf chroot/ cache/``` and ```lb clean --purge```
 - I set the live-build parameters
 - ```lb build``` sets everything to go
