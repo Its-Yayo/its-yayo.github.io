@@ -15,4 +15,4 @@ title: Skills
 - Networking concepts (OSI Model, Topology's Networks...)
 
 ## My Lab
-I love Linux. I use Debian Stable as my solid daily driver and I chose it for a reasom. Despite that Debian helped me to quit distro hopping, Debian represents my inner self or strength, peace, solitude, freedom, minimalism and power. Debian's stability is awesome, like a solid rock. Plus my Debian OS is installed on my Filion, my powerful thinkpad where I take it everywhere. My copy of Debian has VMs, some games, distroboxes (Podman and Docker containers). I also have Obsidian where I note my mental notes :)
+I love Linux. I use Debian Stable as my solid daily driver and I chose it for a reason. Despite that Debian helped me to quit distro hopping, Debian represents my inner self or strength, peace, solitude, freedom, minimalism and power. Debian's stability is awesome, like a solid rock. Plus my Debian OS is installed on my Filion, my powerful thinkpad where I take it everywhere. My copy of Debian has VMs, some games, distroboxes (Podman and Docker containers). I also have Obsidian where I write my mental notes :)
