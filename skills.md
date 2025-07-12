@@ -4,7 +4,7 @@ title: Skills
 ---
 
 ## Current Skills 
-- Advanced Linux filesystem (I have a lot of experience with so many distros, Debian and Debian-based, Fedora and Fedora-based, Arch and Arch-based, Void Linux, Slackware, Alpine, FreeBSD and soon Gentoo and LFS!)
+- Advanced Linux filesystem (I have a lot of experience with so many distros, Debian and Debian-based, Fedora and Fedora-based, Arch and Arch-based, Void Linux, Slackware, Alpine, FreeBSD, NixOS and soon Gentoo and LFS!)
 - Virtualization (Type 1 (Proxmox, KVM), type 2 (vMware Workstation, Virtualbox))
 - Conteinerization (Docker, Podman)
 - Intermediate Server Management (I use RHEL 8.1 for my main server, Debian 11 for my little server and Alpine for my test server)
