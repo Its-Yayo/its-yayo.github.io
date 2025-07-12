@@ -8,12 +8,14 @@ Btw, this was [my first](https://y4yorc.github.io/) site page and now it is arch
 
 I'm Yayo (or Yayitz). I'm a junior software developer and a computer science's student. Also, I'm a DevOps and DevSecOps enthusiastic. I like to build software, apps, etc. Also I love researching about the mind, how it works and how to control it. 
 
+Im also a huge fan of open source and free software, I believe that quite changed my life to help others and myself with my special things and my special mind to build great stuff. 
+
 Also I believe that security and privacy online (and offline) is one of the most important things I value. No one should ever track you, neither governments or companies or any other other mass surveillance. Try switching to startpage or nextcloud instead of other services. (Note, my page uses google fonts so I'd recommend you to block google's DNS for more privacy.)
 
 
 ## Hobbies
 - I like (and started) to do researches and discoveries about the mind (neurology and pychoneuroimmunology) to modify it in a positive way on the trascendence of the human being (eternity) and to revert the well-said human deterioration. Also to know how to control my mind and my thoughts and actions.
-- I like riced OS distributions. This is my [riced Ubuntu](https://www.reddit.com/r/unixporn/comments/1g9lc7s/openbox_i_use_ubuntu_btw/) lol
+- I like riced OS distributions, I've riced some daily setups. This is my [riced Ubuntu](https://www.reddit.com/r/unixporn/comments/1g9lc7s/openbox_i_use_ubuntu_btw/) (I used it for quite 5 months), my [rice GNOME NixOS](https://www.reddit.com/r/unixporn/comments/1kokqw9/gnome_i_like_minimalism/) stayed up for 2 months and now, forever, my CachyOS with hyprland brings me some peace inside a world of full of noise (https://defcon.social/@yayitzzz/114841267000714464) 
 - I like bowling and chess
 - I like to listen to piano and reflective music for work.
 - My first fav music genre of all time is phonk, it helps me a lot with motivation, discipline, coding, to be myself and **to build my purpose/eternity**. 
