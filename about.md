@@ -4,8 +4,6 @@ title: About
 ---
 
 ## Basics
-Btw, this was [my first](https://y4yorc.github.io/) site page and now it is archived so u can check it out haha, now it's totally different and with my energy towards myself and my surroundings. 
-
 I'm Yayo (or Yayitz). I'm a junior software developer and a computer science's student. Also, I'm a DevOps and DevSecOps enthusiastic. I like to build software, apps, etc. Also I love researching about the mind, how it works and how to control it. 
 
 Im also a huge fan of open source and free software, I believe that quite changed my life to help others and myself with my special things and my special mind to build great stuff. 
