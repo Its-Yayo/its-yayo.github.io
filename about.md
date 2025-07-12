@@ -13,7 +13,7 @@ Also I believe that security and privacy online (and offline) is one of the most
 
 ## Hobbies
 - I like (and started) to do researches and discoveries about the mind (neurology and pychoneuroimmunology) to modify it in a positive way on the trascendence of the human being (eternity) and to revert the well-said human deterioration. Also to know how to control my mind and my thoughts and actions.
-- I like riced OS distributions, I've riced some daily setups. This is my [riced Ubuntu](https://www.reddit.com/r/unixporn/comments/1g9lc7s/openbox_i_use_ubuntu_btw/) (I used it for quite 5 months), my [rice GNOME NixOS](https://www.reddit.com/r/unixporn/comments/1kokqw9/gnome_i_like_minimalism/) stayed up for 2 months and now, forever, my CachyOS with hyprland brings me some peace inside a world of full of noise (https://defcon.social/@yayitzzz/114841267000714464) 
+- I like riced OS distributions, I've riced some daily setups. This is my [riced Ubuntu](https://www.reddit.com/r/unixporn/comments/1g9lc7s/openbox_i_use_ubuntu_btw/) (I used it for quite 5 months), my [riced GNOME NixOS](https://www.reddit.com/r/unixporn/comments/1kokqw9/gnome_i_like_minimalism/) stayed up for 2 months and now, forever, my [CachyOS with hyprland](https://defcon.social/@yayitzzz/114841267000714464) brings me some peace inside a world of full of noise 
 - I like bowling and chess
 - I like to listen to piano and reflective music for work.
 - My first fav music genre of all time is phonk, it helps me a lot with motivation, discipline, coding, to be myself and **to build my purpose/eternity**. 
