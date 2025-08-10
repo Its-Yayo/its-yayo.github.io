@@ -13,7 +13,7 @@ Also I believe that security and privacy online (and offline) is one of the most
 
 ## Hobbies
 - I like (and started) to do researches and discoveries about the mind (neurology and pychoneuroimmunology) to modify it in a positive way on the trascendence of the human being (eternity) and to revert the well-said human deterioration. Also to know how to control my mind and my thoughts and actions.
-- I like riced OS distributions, I've riced some daily setups. This is my [riced Ubuntu](https://www.reddit.com/r/unixporn/comments/1g9lc7s/openbox_i_use_ubuntu_btw/) (I used it for quite 5 months), my [riced GNOME NixOS](https://www.reddit.com/r/unixporn/comments/1kokqw9/gnome_i_like_minimalism/) stayed up for 2 months and now, forever, my [Arch with hyprland](https://www.reddit.com/r/desktops/comments/1m2gkqs/enough_having_bloatware_i_just_want_some_peace/) brings me some peace inside a world of full of noise 
+- I love science, physics (classical and specially quantum), maths, computing science, whatever that trascends limits
 - I like bowling and chess
 - I like to listen to piano and reflective music for work.
 - My first fav music genre of all time is phonk, it helps me a lot with motivation, discipline, coding, to be myself and **to build my purpose/eternity**. 
@@ -27,7 +27,6 @@ Also I believe that security and privacy online (and offline) is one of the most
 - "When people say you can't do it, those people is showing you their limits, not yours"
 - "It's very important for you to believe that you are the one"
 - "The lifehack of a growing life is not seeing what didn't happen, but seeing what you did to make up for it"
-- "If motivation fails, the discipline will help it to grow"
 
 Peace coding fellas :)
 
