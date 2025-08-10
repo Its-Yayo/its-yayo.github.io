@@ -25,7 +25,7 @@ Also I was chatting with some girls I've not seen them irl yet (well, non-yet). 
 where these girls have a high cinetic energy and a low potential energy. When they chose other priorities instead of me, they sent some photons to the opposite direction where I was located, quite interesting. Also, in networking topologies, I would say that some people usually with a good
 TCP connection but then they changed radically to UDP, so its normal that their ACKs are going to be radically different. I'm expecting a TCP connection and it feels quite bad when you realize that all the SYNs are not being recieved successfully. Alice read the message that Bob sent but Alice doesn't want to reply back. In computing, its just a 503 error
 
-What I am trying to tell y'all with this is that I tried to build a relationship between all the stuff that happened to me in the last couple of months with some of my passions as way to relax myself, that everything is ok and that some of the things I see normally are uncertain since quantum physics is relativelly uncertain. I'm still learning a lot
+What I am trying to tell y'all with this is that I tried to build a relationship between all the stuff that happened to me in the last couple of months with some of my passions as way to relax myself, that everything is ok and that some of the things I see normally are uncertain since quantum physics is relatively uncertain. I'm still learning a lot
 of things ngl, but it is quite strange y'know? I feel this thing helped to develop this sense of curiosity. Some physicists take their time in their spare own solitud time to reflect in uncertain but real things. That time is mine. 
 
 As for Xolo Linux, I'm still building it. I changed my server from an EC2 instance to my little fridge (It has a shape of it haha). It has AlmaLinux 8.10 and 24GB of RAM. I'm setting up a Wireguard VPN so I can work remotely. Since Xolo is based on Debian Stable (not Testing), I had to build a podman container with low-level root privilages since live-build requires some services from systemd. Don't worry, SELinux is setted up properly and my subnet will have just one rule for the port 51994. 
@@ -41,6 +41,6 @@ Some of the things that Xolo will feature are
 - A minimalistic and modified systemd 
 - Strong and unchangeable ufw rules
 
-I'm still discovering some things qhen it comes to my inner self, my stuff and extensions of life, quantum laws, astronomy and computing. I just have to take one step at a time and I have to accept myself that some of the things that I know, I don't know them. Uncertain but real.
+I'm still discovering some things when it comes to my inner self, my stuff and extensions of life, quantum laws, astronomy and computing. I just have to take one step at a time and I have to accept myself that some of the things that I know, I don't know them. Uncertain but real.
 
 Love y'all :)
