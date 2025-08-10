@@ -6,9 +6,9 @@ tags: [meditation, science]
 
 This is going to be a quick note, I really want to share this with y'all. Now I'm able to write it, the last couple of weeks I couldn't but now, that I found some discipline, I'm ready
 
-2 weeks ago, I had a huge anxiety attack, I had like 162 bpm like from nowhere and then ai felt quite tired for the rest of the day. I invested the following days recovering myself and
+2 weeks ago, I had a huge anxiety attack, I had like 162 bpm like from nowhere and then I felt quite tired for the rest of the day. I invested the following days recovering myself and
 it was a hell of a work. Some of the things that caused this was for instance, a person that I loved so much, so so much that I was acumulating things when that love was not the same from her. In
-quantum mechanics, I would define this as a failed quantum entanglement, no coincidence why I decided to learn quantum physics alongside with Linux and hardcode low-level programming. I wish that person the best of the best. I don't know if she's reading this tbh but I love u. I just need time to heal.
+quantum mechanics, I would define this as a failed quantum entanglement, no coincidence why I decided to learn quantum physics alongside with Linux and hardcode low-level programming. I still wish that person the best of the best. I don't know if she's reading this tbh but I love u. I just need time to heal.
 
 Also, I was testing every Linux distro for my host (I went from Ubuntu, Zorin, Vanilla..., Void, CachyOS and Arch. 9 distros in less than one month.) I think I was looking out for the "perfect and free-of-fear distros". Fear because
 my choice criteria was considering a distro that is completely FOSS but at the same time, a rolling release with no versions and secure. I lasted 2 days with Void, all the xbps packages broke when my 
