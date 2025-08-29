@@ -23,7 +23,7 @@ Also I was chatting with some girls I've not seen them irl yet (well, non-yet). 
 where these girls have a high cinetic energy and a low potential energy. When they chose other priorities instead of me, they sent some photons to the opposite direction where I was located, quite interesting. Also, in networking topologies, I would say that some people usually with a good
 TCP connection but then they changed radically to UDP, so its normal that their ACKs are going to be radically different. I'm expecting a TCP connection and it feels quite bad when you realize that all the SYNs are not being recieved successfully. Alice read the message that Bob sent but Alice doesn't want to reply back. In computer science, its just an HTTP 503 error. ```ping -c 1 'are u still interested?'``` > ```100% packet loss```
 
-I do not think every girl is like this. I know there are some awesome girls (and people in general) outside that are astonoshing. This is just my experience
+I do not think every girl is like this. I know there are some awesome girls (and people in general) outside that are amazing. This is just my experience
 
 What I am trying to tell yall with this is that I built and still building a relationship between all the stuff that happened to me in the last months with some of my passions as way to relax myself, that everything is ok and that some of the things I see normally are uncertain since quantum physics is relatively uncertain. I'm still learning a lot
 of things ngl, but it is quite strange y'know? I feel this thing helped to develop this sense of curiosity. Some physicists take their time in their spare own solitud time to reflect in uncertain but real things (yes, real). That time is mine. Mine. 
