@@ -4,7 +4,7 @@ title: Installing Void Linux while meditating
 tags: [self-love, quantum extensions, linux, void linux, gnu/linux]
 ---
 
-# Table of Contents
+## Table of Contents
 1. [Intro](#intro)
 2. [Init Stuff](#init-stuff)
 3. [Disks](#disks)
