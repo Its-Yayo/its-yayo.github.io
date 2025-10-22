@@ -10,7 +10,7 @@ technical stuff, nop. I just wanna note some things as a public diary and, of co
 inside my FreeBSD VM so I can note things here as well
 
 Yep, I have 3 dogs (Nicki, Toby and Lari). Nicki passed away this morning and I am quite sentimental because some thoughts just came through
-my mind. I just remembered some of the things Nicki did to me back in the day. I remember once I was sick and he camed to me. Man, he was refusing to leave
+my mind. I just remembered some of the things Nicki did to me back in the day. I remember once I was sick and he camee to me. Man, he was refusing to leave
 my room once my parents told him to sleep on the couch haha. Damn, I'm crying a bit at the time I am writing this at the library. 
 
 Maybe he passed away for me, now that I'm trascending myself and I am looking forward to the eternity, he did that to me, I just think that and yep, could 
