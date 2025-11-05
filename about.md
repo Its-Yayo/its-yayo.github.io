@@ -4,9 +4,9 @@ title: About
 ---
 
 ## Basics
-I'm Yayo (or Yayitz or Y4y0). I'm a junior software developer and a computer science's student. Also, I'm a DevOps and DevSecOps enthusiastic. I like to build software, apps, etc. Also I love researching about the mind, how it works and how to control it.
+I'm Yayo (or Yayitz). I'm a junior software developer and a computer science's student. Also, I'm a DevOps and DevSecOps enthusiastic. I like to build software, apps, etc. Also I love researching about the mind, how it works and how to control it. 
 
-I'm also a huge fan of open source and free software, I believe that quite changed my life to help others and myself with my special things and my special mind to build great stuff. 
+Im also a huge fan of open source and free software, I believe that quite changed my life to help others and myself with my special things and my special mind to build great stuff. 
 
 Also I believe that security and privacy online (and offline) is one of the most important things I value. No one should ever track you, neither governments or companies or any other other mass surveillance. Try switching to startpage or nextcloud instead of other services. (Note, my page uses google fonts so I'd recommend you to block google's DNS for more privacy.)
 
