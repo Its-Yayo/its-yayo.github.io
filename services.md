@@ -5,7 +5,7 @@ title: Services
 
 ## Services I mainly do in my spare time
 
-I do offer some tech paid ervices. Check out my [contact](https://its-yayo.github.io/contact) page for more info so u can contact me in case you are interested so I can share with you more details about it (English and spanish only). Personally I do prefer Signal but it's your choice. 
+I do offer some tech paid services. Check out my [contact](https://its-yayo.github.io/contact) page for more info so u can contact me in case you are interested so I can share with you more details about it (English and spanish only). Personally I do prefer Signal but it's your choice. 
 
 - Basic / Intermediate Programming classes (Python / Pseudocode / DSAs)
 - Linux Introductionary classes (Any distro tbh: Ubuntu, Debian, Fedora, etc, as well as the filesystem, initramfs...)
