@@ -15,14 +15,14 @@ navbar_entries:
     url: services
 
 project_entries:
-  - title: Keypwn
-    url: keypwn
-    desc: Keypwn is a single keylogger tool for cryptography purposes.
-    
-  - title: Ramskit
-    url: ramskit
-    desc: Ramskit is a single CLI tool to encrypt/decrypt data.
-    
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
+
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
+
 misc_entries:
   - title: this is an example vertical list
     url: false
