@@ -30,7 +30,7 @@ tried so many times, maybe its time to make a pause and ask yourself: "Why am I 
 Its hard to believe because its delegating some power to someone else you can't see. Maybe not, but that doesn't mean it doesn't exist. Your eye has a maximum of 800 ppis, macroscopical. Microscopical things are always there, down at the
 quantum level, there are some interesting things we don't know yet, but we already know that. How? Believing in that. Down at the quantum level, there are some things we can't see but that doesn't mean they don't exist. As simple as that
 
-I know how it feels living in a world that usually feels 2 dimentions and you feel 6 or 7. Obviously you are going to be different because you a different and meaningful way to see how life works. You are hyper-activated because your
+I know how it feels living in a world that usually feels 2 dimentions and you feel 6 or 7. Obviously you are going to be different because you have a different and meaningful way to see how life works. You are hyper-activated and sensible because your
 mind works in a different frequency. That's gonna hit you I know. It hit me and still. But hey, like I said, why are u doing what you are doing in the first place? Is it for someone (or smth)? Is it because you really want to help people and
 society? Is it to impress a girl/boy? Is it because you are bored? Idk that's a question I give you for homework.
 
