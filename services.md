@@ -15,10 +15,4 @@ I do offer some tech paid services. Check out my [contact](https://its-yayo.gith
 
 (* This could be a regular montly lapse payment since support requires me time to maintain your system at any time (except weekends unless if necessary))
 
-## What don't I do?
-- I don't exploit websites or kernel-based software
-- I don't hack any social media, pls don't ask me to hack into your ex's instagram
-- I don't teach people to hack or harm people 
-- I don't fix printers lol
-
 If you need smth, don't doubt to reach me out in my contact page. 
