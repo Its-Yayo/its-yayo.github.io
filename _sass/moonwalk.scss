@@ -1,35 +1,76 @@
-// Tipografías
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lora:ital,wght@0,400..700;1,400..700&family=Fira+Code:wght@400;600&family=Roboto+Mono&display=swap');
+// Tipografías: Lora para el cuerpo (estilo blog), Inter para títulos
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lora:ital,wght@0,400..700;1,400..700&family=Fira+Code:wght@400;600&family=Roboto+Mono&display=swap');
 
-// -------------- VARIABLES EVERFOREST -------------- //
+html { height: 100%; }
+
+body {
+  // Tipografía estilo blog minimalista
+  font-family: "Lora", Georgia, serif;
+  font-size: 1.1rem;
+  line-height: 2;
+  margin: 0;
+  min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+pre, code {
+  font-family: "Fira Code", "Courier New", monospace;
+  font-size: 0.9rem;
+}
+
+h2, h3, h4, h5 { 
+  font-family: "Inter", sans-serif;
+  margin-top: 1.5em; 
+}
+
+hr { margin: 1em 0; }
+
+hr.page-break {
+  text-align: center;
+  border: 0;
+  &:before { content: '-----' }
+  &:after { content: attr(data-content) '-----' }
+}
+
+p { margin: 1em 0; }
+
+li { margin: 0.4em 0; }
+
+.w {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 4em 2em;
+}
+
+// --- PALETAS EVERFOREST ---
 @mixin light-appearance {
   html, body {
-    --bg: #fffbef;
-    --bg-secondary: #f2efdf;
-    --border: #e8e5d5;
-    --headings: #2d353b;
-    --text: #5c6a72;
-    --text-secondary: #939f91;
-    --links: #35a775;
-    --highlight: #f8f0dc;
-    --code-text: #df7078;
-    --share-text: #859289;
+      --bg: #fffbef;           // Everforest Light Hard
+      --bg-secondary: #f2efdf;
+      --border: #e8e5d5;
+      --headings: #2d353b;
+      --text: #5c6a72;
+      --text-secondary: #939f91;
+      --links: #35a775;
+      --highlight: #f8f0dc;
+      --code-text: #df7078;
+      --share-text: #859289;
   }
 }
 
 @mixin dark-appearance {
-  html, body {
-    --bg: #272e33;
-    --bg-secondary: #2e383e;
-    --border: #414b50;
-    --headings: #d3c6aa; // Blanco verdeado Everforest
-    --text: #d3c6aa;
-    --text-secondary: #859289;
-    --links: #a7c080;
-    --highlight: #475258;
-    --code-text: #e67e80;
-    --share-text: #9da9a0;
-  }
+  html, body  {
+      --bg: #272e33;           // Everforest Dark Hard
+      --bg-secondary: #2e383e;
+      --border: #414b50;
+      --headings: #d3c6aa;      // Blanco ligeramente verdeado
+      --links: #a7c080;         // Verde Everforest
+      --highlight: #475258;
+      --text: #d3c6aa;          // Texto principal verdeado legible
+      --text-secondary: #859289;
+      --code-text: #e67e80;
+      --share-text: #9da9a0;
+  };
 }
 
 html[data-theme="dark"] { @include dark-appearance; }
@@ -42,112 +83,91 @@ html[data-theme="light"] { @include light-appearance; }
   body[data-theme="auto"] { @include light-appearance; }
 }
 
-// -------------- ESTILOS BASE -------------- //
-
+// --- APLICACIÓN DE COLORES ---
 html, body {
-  background-color: var(--bg);
-  color: var(--text);
-  margin: 0;
-  height: 100%;
+    background-color: var(--bg);
+    color: var(--text);
+}
+h1, h2, h3, h4, h5, h6 {
+    color: var(--headings);
+}
+p, strong, b, em, small, li, hr, table, figcaption {
+    color: var(--text);
 }
 
-body {
-  font-family: "Lora", serif;
-  font-size: 1.1rem;
-  line-height: 1.8;
-  -webkit-font-smoothing: antialiased;
+// --- AJUSTE DE SNIPPETS DE CÓDIGO (REFACTORED) ---
+.highlight, pre, blockquote {
+  border-radius: 12px; // Bordes más suaves
 }
 
-.w {
-  max-width: 760px;
-  margin: 0 auto;
-  padding: 4em 2em;
-}
-
-h1, h2, h3, h4, h5 {
-  font-family: "Inter", sans-serif;
-  color: var(--headings);
-  margin-top: 1.5em;
-}
-
-// -------------- BLOQUES DE CÓDIGO (FIX) -------------- //
-
-// Selector ultra-específico para forzar el cambio
-div.highlighter-rouge, 
-div.highlighter-rouge pre, 
-pre.highlight, 
+div.highlighter-rouge pre code, 
+pre code.highlighter-rouge,
 pre {
-  background-color: var(--bg-secondary) !important;
-  border: 1px solid var(--border) !important;
-  border-radius: 12px !important; // Redondeado suave
-  margin: 2em 0 !important;
-}
-
-div.highlighter-rouge pre, 
-pre {
-  padding: 1.5rem !important; // Espacio interno para que no pegue a los bordes
+  display: block;
   overflow-x: auto;
+  padding: 1.5em;       // Espacio interno para que no pegue a los bordes
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border);
+  line-height: 1.5;
 }
 
-code {
-  font-family: "Fira Code", monospace;
-  font-size: 0.9rem;
-  background: transparent; // Evita fondos dobles
-}
-
-// Código en línea (dentro de párrafos)
 p code, li code {
-  background-color: var(--bg-secondary) !important;
-  color: var(--code-text) !important;
-  padding: 0.2rem 0.5rem !important;
-  border-radius: 6px !important;
-  font-weight: 500;
-  border: 1px solid var(--border) !important;
+  background-color: var(--bg-secondary);
+  padding: 0.2rem 0.4rem;
+  color: var(--code-text);
+  font-weight: bold;
+  border-radius: 6px;
 }
 
-// -------------- OTROS ELEMENTOS -------------- //
-
+// --- OTROS ELEMENTOS ---
 blockquote {
   font-style: italic;
   background-color: var(--bg-secondary);
-  border-left: 4px solid var(--links);
-  margin: 2em 0;
+  border: 1px var(--border) solid;
   padding: 1.5em;
-  border-radius: 0 12px 12px 0;
   p { margin: 0; }
 }
 
-table {
+table, th, td {
   width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
   border: 1px solid var(--border);
-  border-radius: 12px;
-  overflow: hidden;
-  th, td {
-    padding: 0.8em;
-    border: 1px solid var(--border);
-  }
+  border-collapse: collapse;
+  padding: 0.6em;
+}
+
+a {
+  color: var(--links);
 }
 
 .theme-toggle {
-  position: fixed;
-  right: 1.5em;
-  top: 1.5em;
-  padding: 8px 16px;
-  border-radius: 8px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border);
   color: var(--text);
+  background-color: transparent;
+  padding: 8px;
   cursor: pointer;
-  font-family: "Inter", sans-serif;
+  margin: 1em;
+  position: fixed;
+  right: 0;
+  top: 0;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  outline: none;
+}
+
+.post-date, .home-date {
+  color: var(--text-secondary);
+  margin-top: 1rem;
+  font-size: 0.8em;
+  font-family: "Roboto Mono", monospace;
 }
 
 .tag {
-  background: var(--bg-secondary);
-  padding: 0.3em 0.8em;
-  border-radius: 6px;
   font-family: "Inter", sans-serif;
-  font-size: 0.75rem;
   color: var(--text-secondary);
+  padding: 0.4em 1em;
+  margin-right: 0.5em;
+  border-radius: 1em;
+  background-color: var(--bg-secondary);
+  font-size: 0.7em;
+  font-weight: bold;
+  text-transform: lowercase;
 }
