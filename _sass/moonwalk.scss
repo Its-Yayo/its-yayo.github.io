@@ -1,41 +1,7 @@
-// Tipografías: Lora para lectura larga, Inter para UI/Headers
+// Tipografías de alta calidad para Blog
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lora:ital,wght@0,400..700;1,400..700&family=Fira+Code:wght@400;600&family=Roboto+Mono&display=swap');
 
-html { height: 100%; }
-
-body {
-  font-family: "Lora", Georgia, serif;
-  font-size: 1.1rem; 
-  line-height: 1.8;
-  margin: 0;
-  min-height: 100%;
-  -webkit-font-smoothing: antialiased;
-}
-
-pre, code {
-  font-family: "Fira Code", monospace;
-  font-size: 0.9rem;
-}
-
-h1, h2, h3, h4, h5 { 
-  font-family: "Inter", sans-serif;
-  margin-top: 1.5em; 
-  letter-spacing: -0.02em;
-}
-
-hr { 
-  margin: 2em 0; 
-  border: 0;
-  border-top: 1px solid var(--border);
-}
-
-.w {
-  max-width: 760px; 
-  margin: 0 auto;
-  padding: 4em 2em;
-}
-
-// -------------- PALETAS EVERFOREST -------------- //
+// -------------- VARIABLES DE PALETA EVERFOREST -------------- //
 
 @mixin light-appearance {
   html, body {
@@ -43,11 +9,11 @@ hr {
     --bg-secondary: #f2efdf;  // Background Medium
     --border: #e8e5d5;
     --headings: #2d353b;      // Foreground
-    --text: #5c6a72;          // Status line / Grey
+    --text: #5c6a72;          // Grey
     --text-secondary: #939f91;
     --links: #35a775;         // Green
     --highlight: #f8f0dc;
-    --code-text: #df7078;      // Red
+    --code-text: #df7078;     // Red
     --share-text: #859289;
   }
 }
@@ -57,9 +23,9 @@ hr {
     --bg: #272e33;           // Everforest Dark Hard Background
     --bg-secondary: #2e383e;  // Background Medium
     --border: #414b50;
-    --headings: #d3c6aa;      // Foreground (Blanco ligeramente verdeado)
-    --text: #d3c6aa;          // Texto principal igual para máxima legibilidad
-    --text-secondary: #859289; // Grey/Greenish
+    --headings: #d3c6aa;      // Blanco ligeramente verdeado (muy legible)
+    --text: #d3c6aa;          
+    --text-secondary: #859289; 
     --links: #a7c080;         // Green
     --highlight: #475258;
     --code-text: #e67e80;     // Red/Coral
@@ -67,8 +33,7 @@ hr {
   }
 }
 
-// -------------- LOGICA DE TEMAS -------------- //
-
+// Lógica de Temas
 html[data-theme="dark"] { @include dark-appearance; }
 html[data-theme="light"] { @include light-appearance; }
 
@@ -79,70 +44,165 @@ html[data-theme="light"] { @include light-appearance; }
   body[data-theme="auto"] { @include light-appearance; }
 }
 
-html, body {
+// -------------- ESTILOS BASE -------------- //
+
+html { height: 100%; }
+
+body {
+  font-family: "Lora", Georgia, serif; // Estilo Blog minimalista
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0;
+  min-height: 100%;
   background-color: var(--bg);
   color: var(--text);
+  -webkit-font-smoothing: antialiased;
 }
 
-// -------------------------------------------- //
-
-blockquote {
-  font-style: italic;
-  background-color: var(--bg-secondary);
-  border-left: 4px solid var(--links); // Estilo más moderno de blog
-  padding: 1rem 1.5rem;
-  margin: 1.5rem 0;
-  border-radius: 4px;
-  
-  p { margin: 0; color: var(--text); }
+.w {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 4em 2em;
 }
 
-table, th, td {
-  border: 1px solid var(--border);
-  border-collapse: collapse;
-  padding: 0.6rem;
+h1, h2, h3, h4, h5 { 
+  font-family: "Inter", sans-serif;
+  color: var(--headings);
+  margin-top: 1.5em;
+  letter-spacing: -0.02em;
 }
 
 a {
   color: var(--links);
   text-decoration-thickness: 1px;
-  transition: opacity 0.2s;
-  &:hover { opacity: 0.8; }
+  transition: all 0.25ms ease;
+  &:hover { opacity: 0.7; }
+}
+
+p, li { margin: 1em 0; }
+
+hr {
+  margin: 2em 0;
+  border: 0;
+  border-top: 1px solid var(--border);
+}
+
+// -------------- SNIPPETS DE CÓDIGO (CORREGIDOS) -------------- //
+
+// Bloques de código (pre)
+pre {
+  background-color: var(--bg-secondary) !important;
+  border: 1px solid var(--border);
+  border-radius: 12px; // Bordes suaves
+  padding: 1.5em;      // Espacio interno generoso
+  overflow-x: auto;
+  margin: 1.5em 0;
+  display: block;
+}
+
+code {
+  font-family: "Fira Code", monospace;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+// Código dentro de párrafos (inline code)
+p code, li code {
+  background-color: var(--bg-secondary);
+  color: var(--code-text);
+  padding: 0.2rem 0.5rem;
+  border-radius: 6px;
+  font-weight: 500;
+  border: 1px solid var(--border);
+}
+
+// Soporte para highlighters específicos
+div.highlighter-rouge pre code, 
+pre code.highlighter-rouge {
+  padding: 0; // Evita doble padding
+  border-radius: 0;
+  border: none;
+}
+
+// -------------- ELEMENTOS DE DISEÑO -------------- //
+
+blockquote {
+  font-style: italic;
+  background-color: var(--bg-secondary);
+  border-left: 4px solid var(--links);
+  margin: 2em 0;
+  padding: 1.2em 1.5em;
+  border-radius: 0 8px 8px 0;
+  
+  p { margin: 0; }
+}
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1.5em 0;
+
+  th, td {
+    padding: 0.8em;
+    border: 1px solid var(--border);
+    color: var(--text);
+  }
+  th { background-color: var(--bg-secondary); }
+}
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  display: block;
+  margin: 2em auto;
 }
 
 .theme-toggle {
   color: var(--text);
   background-color: var(--bg-secondary);
   border: 1px solid var(--border);
-  padding: 8px 12px;
+  padding: 8px 16px;
   border-radius: 8px;
   cursor: pointer;
   margin: 1em;
   position: fixed;
   right: 0;
   top: 0;
+  font-family: "Inter", sans-serif;
+  font-size: 0.8rem;
+  z-index: 10;
+  transition: transform 0.1s ease;
+  &:active { transform: scale(0.95); }
 }
 
-p code, li code {
-  background-color: var(--bg-secondary);
-  padding: 0.2rem 0.4rem;
-  color: var(--code-text);
-  font-weight: 500;
-  border-radius: 4px;
-}
-
-.post-date, .home-date {
-  font-family: "Roboto Mono", monospace;
+.post-date {
   color: var(--text-secondary);
-  font-size: 0.85rem;
+  margin-top: 1rem;
+  font-size: 0.8em;
+  font-family: "Roboto Mono", monospace;
 }
 
 .tag {
   font-family: "Inter", sans-serif;
   color: var(--text-secondary);
-  padding: 0.2em 0.8em;
+  padding: 0.3em 0.8em;
+  margin-right: 0.5em;
+  border-radius: 6px;
   background-color: var(--bg-secondary);
-  border-radius: 4px;
   font-size: 0.75em;
+  font-weight: bold;
   text-transform: lowercase;
+}
+
+// Transiciones suaves al cambiar de tema
+html.transition,
+html.transition *,
+html.transition *:before,
+html.transition *:after {
+  transition: all 250ms !important;
+  transition-delay: 0 !important;
 }
