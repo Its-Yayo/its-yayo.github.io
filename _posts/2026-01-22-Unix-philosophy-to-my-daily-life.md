@@ -27,7 +27,7 @@ relationships, infidelities caused by external stimuli, anxiety caused by someon
 Unix was built when this modern drama was unexistent. You just had a PDP-11 computer with some Black Sabbath's songs in the background. THere was no internet drama, no digital subscriptions, everything was yours. Awk was not built to impress people and get
 external validation; it was built because it was (and is) necessary. An FHS, IEEE standards like POSIX, sed, mkdir, more, sleep, ln, df, du, echo, netstat, everything was built because it was and is necessary, pure coherence. 
 
-Coherence, purpose, minimalism. Minimalism, the FHS has only 9 main subdirectories that are ```/bin -> /usr/bin, /sys, /proc, /etc, /lib, /lib64, /sbin, /usr, /var```), each one with its main purpose. The filesystem organizes data as well as I organize my mind. Minimalism as a way of life
+Coherence, purpose, minimalism. Minimalism, the FHS has only 9 main subdirectories that are ```/bin -> /usr/bin, /sys, /proc, /etc, /lib, /lib64, /sbin, /usr, /var```, each one with its main purpose. The filesystem organizes data as well as I organize my mind. Minimalism as a way of life
 
 Unix as a sole operating system has 3 main components, no more, no less: the kernel, the shell and the userland utilities. No more, no less. It was not built for people who want something digerible, was built for those few people who want to understand the "why"
 
@@ -35,7 +35,7 @@ Unix was built for real hackers, real people that don't settle with the basic st
 Ken Thompson, Brian Kernighan, they are real hackers. Hackers made the TCP/IP scheme, the OSI model, they built ARPANET and internet, IEEE and RFC standards, they built the definition of sockets, wrappers, I/0 redirection, pipelines  and
 most everything that society takes for granted. They were and are solitude people. I am as well.
 
-Unix was not meant and is not meant for everyone, but just for those who are willing to understand it as a way of life. Minimalism embraces solitude and solitude embraces freedom. Unix doesn't want you to cheer it, it wants you to understand it and most of the modern society are not willing to understand basic stuff but to get everything done by some random AI agent in their OSses and most of their daily live.
+Unix was not meant and is not meant for everyone, but just for those who are willing to understand it as a way of life. Minimalism embraces solitude and solitude embraces freedom. Unix doesn't want you to cheer it, it wants you to understand it and most of the modern society are not willing to understand basic stuff but to get everything done by some random AI agent in their OSses and most of their daily lives.
 
 Why most universities teach people to be employees at a big tech corporation with executives and CEOs instead of building an own self-path? Is it because external validation? Is it because parties get more socialrecognition than building a Debian package at a friday at 11 pm with completely solitude? Interesting here then. Modern universities are producing big successful employees in exchange of freedom. 
 
@@ -49,7 +49,7 @@ Be silent. Be consistent. Nobody knows what BSD (the Berkeley Software Distribut
 
 Embrace freedom. I embrace being different even though nobody or just a few people want to stay aside me. I got used to people getting away from me so nothing scares me when it comes to people. Nothing should scare you. 
 
-Embrace knowledge, embrace learning stuff
+Embrace knowledge, embrace learning stuff. Embrace eternity, embrace being different.
 
 I cannot control the wind but I can control my sails. 
 
