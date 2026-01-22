@@ -19,7 +19,7 @@ ensure he doesn't think he is one**
 If you wanted to build smth, you just had a 150-200 page manual and some luck. There was even no IRC at that time when Unix V5 was
 released. Complex systems like Windows 11, filled with ads, doomscrolling content and automatized tasks are making people to think
 less and trust more. Windows 11, with that recall thing, people are not aware of the mental impact of this. People are developing 
-a dependant mindset, they rely on what big corporations say about them. Tiktok now embraces a new form so style and I bet everyone is gonna follow that tendency. 
+a dependant mindset, they rely on what big corporations say about them. Tiktok now embraces a new form so stylish and I bet everyone is gonna follow that tendency. 
 
 Kids nowadays don't wanna pursue their dreams. Tiktok fills that dream for them. Brainrots, trash viral content, internet drama, toxic
 relationships, infidelities caused by external stimuli, anxiety caused by someone who was ghosted, tendencies, trashy marketing. 
@@ -37,7 +37,7 @@ most everything that society takes for granted. They were and are solitude peopl
 
 Unix was not meant and is not meant for everyone, but just for those who are willing to understand it as a way of life. Minimalism embraces solitude and solitude embraces freedom. Unix doesn't want you to cheer it, it wants you to understand it and most of the modern society are not willing to understand basic stuff but to get everything done by some random AI agent in their OSses and most of their daily live.
 
-Why most universities teach people to be employees at a big tech corporation with executies and CEOs instead of building an own self-path? Is it because external validation? Is it because parties get more recognition that building a Debian package at a friday at 11 pm with completely solitude? Interesting here then. Modern universities are producing big successful employees in exchange of freedom. 
+Why most universities teach people to be employees at a big tech corporation with executives and CEOs instead of building an own self-path? Is it because external validation? Is it because parties get more socialrecognition than building a Debian package at a friday at 11 pm with completely solitude? Interesting here then. Modern universities are producing big successful employees in exchange of freedom. 
 
 Back in the day, if you wanted to write your stuff, you had to code your own text editor. A C64 had nothing but a blue prompt with that famous "**** Commodore 64 Basic v2  ****, 64k Ram system 38911 basic bytes free, **Ready**". Nothing more, nothing less. You needed to think what to build in the first place. 
 
@@ -47,7 +47,9 @@ Embrace freedom, embrace coherence over modernity, over fast stuff, over fast mo
 
 Be silent. Be consistent. Nobody knows what BSD (the Berkeley Software Distribution) is and even though it sustains the entire world. Linux was in part a silent revolution of a quick standardized dopamine caused by corporations, governments and people as well. Be silent, don't cheer things, embrace them. Real hackers don't cheer things, they embrace them, they change the play, we change the play. We help this world to be sustained by smth, but in silent.
 
-Embrace freedom. I embrace being different even though nobody or just a few people want to stay aside me. 
+Embrace freedom. I embrace being different even though nobody or just a few people want to stay aside me. I got used to people getting away from me so nothing scares me when it comes to people. Nothing should scare you. 
+
+Embrace knowledge, embrace learning stuff
 
 I cannot control the wind but I can control my sails. 
 
