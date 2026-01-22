@@ -27,7 +27,7 @@ relationships, infidelities caused by external stimuli, anxiety caused by someon
 Unix was built when this modern drama was unexistent. You just had a PDP-11 computer with some Black Sabbath's songs in the background. THere was no internet drama, no digital subscriptions, everything was yours. Awk was not built to impress people and get
 external validation; it was built because it was (and is) necessary. An FHS, IEEE standards like POSIX, sed, mkdir, more, sleep, ln, df, du, echo, netstat, everything was built because it was and is necessary, pure coherence. 
 
-Coherence, purpose, minimalism. Minimalism, the FHS has only 9 main subdirectories that are ```/bin -> /usr/bin, /sys, /proc, /etc, /lib, /lib64, /sbin, /usr, /var```, each one with its main purpose. The filesystem organizes data as well as I organize my mind. Minimalism as a way of life
+Coherence, purpose, minimalism. Minimalism, the FHS has only 9 main subdirectories that are ```/bin -> /usr/bin, /sys, /proc, /etc, /dev, /lib, /sbin, /usr, /var```, each one with its main purpose. The filesystem organizes data as well as I organize my mind. Minimalism as a way of life
 
 Unix as a sole operating system has 3 main components, no more, no less: the kernel, the shell and the userland utilities. No more, no less. It was not built for people who want something digerible, was built for those few people who want to understand the "why"
 
