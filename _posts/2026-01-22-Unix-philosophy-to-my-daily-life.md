@@ -47,7 +47,7 @@ Embrace freedom, embrace coherence over modernity, over fast stuff, over fast mo
 
 Be silent. Be consistent. Nobody knows what BSD (the Berkeley Software Distribution) is and even though it sustains the entire world. Linux was in part a silent revolution of a quick standardized dopamine caused by corporations, governments and people as well. Be silent, don't cheer things, embrace them. Real hackers don't cheer things, they embrace them, they change the play, we change the play. We help this world to be sustained by smth, but in silent.
 
-Embrace freedom. I embrace being different even though nobody or just a few people want to stay aside me. I got used to people getting away from me so nothing scares me when it comes to people. Nothing should scare you. 
+Embrace freedom. I embrace being different even though nobody or just a few people want to stay aside me. I got used to people getting away from me and I was being rejected so many times by girls and people in general  so nothing scares me when it comes to people. Nothing should scare you. 
 
 Embrace knowledge, embrace learning stuff. Embrace eternity, embrace being different.
 
