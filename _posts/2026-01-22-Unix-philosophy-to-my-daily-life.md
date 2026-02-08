@@ -6,6 +6,8 @@ tags: [unix, BSDs, C, FHS, meditation, trascendental]
 
 This is a personal article for me. I will explain what I've seen so far with society and then I will reflect about Unix, the C programming language, BSDs, etc..
 
+Do one just thing and do it well
+
 Unix is, mmm, trascendental. It represents a hole new way of life and still does it, even though it was built a long time ago by
 Ken Thompson, Dennis Ritchie and a group of devs back in the day at Bell Labs. It was a different time, social media was unexistent,
 people had to be more patient on whatever they wanted to do, personal computers were so expensive and rare. There was no time to 
@@ -35,6 +37,13 @@ Unix was built for real hackers, real people that don't settle with the basic st
 Ken Thompson, Brian Kernighan, they are real hackers. Hackers made the TCP/IP scheme, the OSI model, they built ARPANET and internet, IEEE and RFC standards, they built the definition of sockets, wrappers, I/0 redirection, pipelines  and
 most everything that society takes for granted. They were and are solitude people. I am as well.
 
+Everything is a file. Everything that was being built in Unix has a purpose. Everything that I wanna build for people and for myself
+has a purpose. Minimalism as a way for life
+
+Minix is a completely minimalist operating system. Why? Because Minix is meant to learn and study its source code. That's what I am doing right now.
+
+Unix was and is meant for people who want to ask themselves the impossible and trascend limits. Unix was a limited operating system. Back in the day, 5 KB of ram was the reaching point. People weren't limited about this and they didn't even think about this as long as they achieve whatever they wanted to achieve
+
 Unix was not meant and is not meant for everyone, but just for those who are willing to understand it as a way of life. Minimalism embraces solitude and solitude embraces freedom. Unix doesn't want you to cheer it, it wants you to understand it and most of the modern society are not willing to understand basic stuff but to get everything done by some random AI agent in their OSses and most of their daily lives.
 
 Why most universities teach people to be employees at a big tech corporation with executives and CEOs instead of building an own self-path? Is it because external validation? Is it because parties get more socialrecognition than building a Debian package at a friday at 11 pm with completely solitude? Interesting here then. Modern universities are producing big successful employees in exchange of freedom. 
@@ -43,7 +52,7 @@ Back in the day, if you wanted to write your stuff, you had to code your own tex
 
 Going against the tide with this is that I accept and will accept solitude and nights of crying and asking myself "why I am doing this in the first place?" in exchange of freedom, and so do u. Start thinking more, start embracing minimalism, start embracing solitude, embracing a new self way of life. 
 
-Embrace freedom, embrace coherence over modernity, over fast stuff, over fast money, over lack of purpose, over quick and empty relationships (friendly and romantic), over luxury and greed
+Embrace freedom, embrace coherence over complex things like  modern life, over fast stuff, over fast money, over lack of purpose, over quick and empty relationships (friendly and romantic), over luxury and greed
 
 Be silent. Be consistent. Nobody knows what BSD (the Berkeley Software Distribution) is and even though it sustains the entire world. Linux was in part a silent revolution of a quick standardized dopamine caused by corporations, governments and people as well. Be silent, don't cheer things, embrace them. Real hackers don't cheer things, they embrace them, they change the play, we change the play. We help this world to be sustained by smth, but in silent.
 
