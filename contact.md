@@ -21,6 +21,10 @@ Just send me a message and I'll respond you whenever I'm available
 - [My ResearchGate account](https://www.researchgate.net/profile/Luis-De-Leon-14?ev=hdr_xprf&_sg=jlgTVriqArpzUro4rL1X7QPrFO8ECYffpbCM1aPXGSeZQd6g49b0s-GUvedC7V34ygXiYXN15k9hJOBnabbGMM6y)
 - [My buymeacoffee page](https://www.buymeacoffee.com/elyayoveloz)
 
+## My PGP Fingerprint
+
+```FE3B 3B6F 8014 66F4 B5DA  C614 02E4 BC81 05EE 197E```
+
 ## My PGP Key
 
 ```
