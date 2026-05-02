@@ -20,6 +20,15 @@ if you already have ur own plan to be different and change yourself, stick to th
 I also applied for [GSoC](https://summerofcode.withgoogle.com/) but got rejected. It is alright tho, I learnt and still 
 learning a lot of things about ABI compat and syslogs. For that, I built a small static C linux binary that called ```timer_create(2)```, how it interacted with compat_linux in the NetBSD HEAD kernel with ```ktrace(1)``` and ```kdump(8)``` and to check that compat_linux has some unimplemented syscalls and library functions (for instance, ```pthread_mutex_lock(3)```) and how it returned an errno -22 EINVAL. (```man errno``` :))) ). Probably I'll explain this since I'm still working on this on my free time on a later article but, yep hehe. I really like reading C code :))  
 
+And 2 days ago specifically, a critical [CVE](https://xint.io/blog/copy-fail-linux-distributions) just got published and it is about 
+a zero-day privilage escalation vulnerability. Technical details are on that hyperlink I wrote but basically, is a local vulnerability 
+that lets the user write into the page cache of any readable file in the system. You can trick this by editing the ```setuid(2)``` function to overwrite the VFS write path. Interesting. 7.8 CVSS score as for now. I patched my servers today even though they are not 
+accesible to public domains and basically outside my home lab except tailscale :)). But I'm quite paranoid.
+
+And as of today (April 31st, May 1st) Ubuntu is having an on-going DDoS attack for their web infrastructure. That demonstrates us how 
+Ubuntu has now centralized their servers. Ubuntu 26.04 LTS just got release last week and maybe, it was a very tactical move by this 
+islamic group. Idk, I don't wanna get into political opinions.
+
 Like I said, I'm not going to go into details, but I have some plans for the upcoming articles. I'm not gonna make spoiler leaks 
 buuuuut, some of my plans include the following:
 
@@ -37,7 +46,7 @@ I'll write articles about projects I have in mind and one of them, will be upstr
 I learnt today that I've been following that pattern of starting and quitting. I have that motivation to build smth new but motivation 
 usually dissapers quite fast. Welllll, not anymore, not today, not never. That's not an option.
 
-And like I said, I'm connecting fully with my extensions, Filion, Exion, Eternelion and Pebbleion, even if society looks weird at me or they dissaprove my decisions. Today's the end of my mental bundle. I declare it. It's alright, today is the time. . No more, no less. I'm different, I'm built different. Probably my upcoming articles are going to be more technical and long, explaining concepts alogn the way. 
+And like I said, I'm connecting fully with my extensions, Filion, Exion, Eternelion and Pebbleion, even if society looks weird at me or they dissaprove my decisions. Today's the end of my mental bundle. I declare it. It's alright, today is the time. . No more, no less. I'm different, I'm built different. Probably my upcoming articles are going to be more technical and longer, explaining concepts alogn the way. 
 
 Alright, time to rest :))), Today is Day One. Let's go. 
 
