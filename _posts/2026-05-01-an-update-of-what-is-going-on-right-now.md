@@ -50,3 +50,71 @@ And like I said, I'm connecting fully with my extensions, Filion, Exion, Eternel
 
 Alright, time to rest :))), Today is Day One. Let's go. 
 
+---
+
+PD. I really love this input as a source of discipline to build great stuff :))
+
+```
+I did this 'cause Linux gives me a woody.  It doesn't generate revenue.
+	-- Dave '-ddt->` Taylor, announcing DOOM for Linux
+$ run-unixv7
+
+PDP-11 simulator Open SIMH V4.1-0 Current        git commit id: 7994e0a7
+
+After Disabling XQ is displayed type in boot
+and at the : prompt type in hp(0,0)unix
+
+Disabling XQ
+/home/yayo/Documents/Emulators/Simh/Unix-V7/workspaces/v7-work/nboot.ini-9> att rp0 rp06-0.disk
+%SIM-INFO: RP0: Amount of data in use in disk container 'rp06-0.disk' cannot be determined, skipping autosizing
+/home/yayo/Documents/Emulators/Simh/Unix-V7/workspaces/v7-work/nboot.ini-11> att rp1 rp06-1.disk
+%SIM-INFO: RP1: Amount of data in use in disk container 'rp06-1.disk' cannot be determined, skipping autosizing
+boot
+Boot
+: hp(0,0)unix
+mem = 2020544
+# RESTRICTED RIGHTS: USE, DUPLICATION, OR DISCLOSURE
+IS SUBJECT TO RESTRICTIONS STATED IN YOUR CONTRACT WITH
+WESTERN ELECTRIC COMPANY, INC.
+WED DEC 31 19:25:14 EST 1969
+
+login: root
+Password:
+You have mail.
+# ls -la
+total 236
+drwxr-xr-x 9 root      288 Dec 31 19:20 .
+drwxr-xr-x 9 root      288 Dec 31 19:20 ..
+-rw-rw-r-- 1 root       34 Dec 31 19:07 .profile
+drwxrwxr-x 2 bin      2480 May  5 05:59 bin
+-rwxrwxr-x 1 bin      6900 May 16 01:33 boot
+drwxr-xr-x 2 root      304 Dec 31 19:04 dev
+drwxr-xr-x 2 root      336 Dec 31 19:25 etc
+-rwxrwxr-x 1 sys     52850 Jun  8 16:56 hptmunix
+drwxrwxr-x 2 bin       336 Jan 22 19:58 lib
+drwxrwxr-x 2 root       64 Dec 31 19:20 test
+drwxrwxrwx 2 bin       304 Dec 31 19:23 tmp
+-rwxrwxr-x 1 root    52850 Dec 31 19:01 unix
+drwxr-xr-x17 bin       304 Dec 31 19:13 usr
+-rw-rw-r-- 1 root        0 Dec 31 19:20 y.tab.c
+-rw-rw-r-- 1 root        0 Dec 31 19:20 yacc.acts
+-rw-rw-r-- 1 root        0 Dec 31 19:20 yacc.tmp
+# cat test/main.c
+main() {
+  printf("hello world\n");
+  return 0;
+}
+# cd test
+# touch adios
+# ed adios
+0
+a
+this is my pageeeee
+.
+w
+20
+q
+# cat adios
+this is my pageeeee
+#
+```
