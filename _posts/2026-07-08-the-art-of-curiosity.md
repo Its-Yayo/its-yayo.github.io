@@ -113,7 +113,7 @@ is true or not and why is it like that for me
 in the process while exploring their islands. I'll not give spoilers, but it's a game where u have to be patient, curious and focused. It is not the type of game you can play alongside your Call of duty's partner or smth like that
 - I take my time to work out everyday with no exceptions. Having a body with a good circulatory system helps the mind to be 
 more focused
-- More reading, less videos...., more learning, less 
+- More reading, less videos...., more learning, less short-term / instant gratification dopamine shots
 
 These is a not to-do list, this is only my personal experience. Could be useful to you or not, but note that whatever habits you have, if you really wanna build curiosity towards yourself and the universe that's surrounding you, you have to accept less
 and ask more. All habits must follow this simple rule
