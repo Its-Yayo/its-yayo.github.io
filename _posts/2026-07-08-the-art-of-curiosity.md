@@ -120,7 +120,7 @@ and ask more. All habits must follow this simple rile
 
 **You have to accept less and ask more.**
 
-My sanctuary is my Phirae, is a highly customized and jailbroken iPhone 4 that's now my eternal Unix pocket I take with me everywhere despite society rules. Phirae also helps me to hack my penfield homunculus I'm also rewriting the way how I interact with my personal objects (not including Phirae cuz it is my sanctuary) and rewriting they way how I work externally and internally. That's why I've not published any article yet. 
+My sanctuary is my Phirae, is a highly customized, physically reinforced and jailbroken iPhone 4 that's now my eternal Unix pocket and thing I take with me everywhere despite society rules. Phirae also helps me to hack my penfield homunculus. Back in my previous definition, it was Filion, my beautiful Thinkpad, but I discovered it caused more anxiety than greatness. I'm also rewriting the way how I interact with my personal objects (not including Phirae cuz it is my sanctuary) and rewriting they way how I work externally and internally. That's why I've not published any article yet. 
 
 But today's an inflection point. My next article is going to related about Zig and memory management in Zig's runtime objects and basic concepts (for now, then I'll move on with other complex concepts). Zig in particular is a programming language school, didn't teach me or didn't encourage me to learn it. I discovered Zig a solely way to program as an art and not as a KPI. I will write that article once I finished the 2nd chapter. Check my repo for updates. Soon, prob next or next next week.  
 
