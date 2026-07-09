@@ -4,13 +4,16 @@ title: About
 ---
 
 ## Basics
-I'm Yayo (or Yayitz or Y4y0) and welcome to my personal public space. I'm a CS student, a jr. software developer, FOSS  enthusiastic, jr. ethical hacker, "linuxero", internee quantum researcher and professional thinker lol. I do believe that open source and specially free software quite changed my life to help others and myself with my special things and my special mind to build great stuff for me and for society. Check out my [contact](https://its-yayo.github.com/contact) page
+I'm Yayo (or Yayitz or Y4y0) and welcome to my personal public space. I'm a Unix researcher, a jr. systems architecture inspired by original hackers at MIT and Bell Labs, FOSS and retro-computing enthusiastic, internee quantum researcher, mind researcher and professional thinker lol. I do believe that open source and specially free software quite changed my life to help others and myself with my special things and my special mind to build great stuff for me and for society. Check out my [contact](https://its-yayo.github.com/contact) page
 
 ## Hobbies
 - I like (and started) to do researches and discoveries about the mind (neurology and pychoneuroimmunology) to modify it in a positive way on the trascendence of the human being (eternity) and to revert the well-said human deterioration. Also to know how to control my mind and my thoughts and actions and also, to be eternal
 - I love BSDs, Linux and Unix-like operating systems. I do like ricing as well, so I mainly test distros on VMs. My fav distros are Debian and Arch
+- I also love the history of Unix, PWB Unix, BSD, SunOS, etc... history of computing, mainframes, micros, minis...
+- I love hardware as well. I love motherboards, logic gates, transitors.
 - I love science, physics (classical and quantum), maths, computing science, whatever that trascends limits
-- I like bowling and chess
+- I like chess
+- I love ambiental and adventure games such as Myst and Riven, as well as Another World and Space Quest (see, I like retro games hehe)
 - I like to listen to piano and reflective music for work. 
 - I like to challenge myself with new challenges
 - I usually meditate and do journaling mostly everyday
@@ -23,10 +26,6 @@ I'm Yayo (or Yayitz or Y4y0) and welcome to my personal public space. I'm a CS s
 - "When people say you can't do it, those people is showing you their limits, not yours"
 - "It's very important for you to believe that you are the one"
 - "The lifehack of a growing life is not seeing what didn't happen, but seeing what you did to make up for it"
-
-Peace coding fellas :)
-
-
 
 
 
