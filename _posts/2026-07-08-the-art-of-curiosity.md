@@ -124,6 +124,8 @@ My sanctuary is my Phirae, is a highly customized and jailbroken iPhone 4 that's
 
 But today's an inflection point. My next article is going to related about Zig and memory management in Zig's runtime objects and basic concepts (for now, then I'll move on with other complex concepts). Zig in particular is a programming language school, didn't teach me or didn't encourage me to learn it. I discovered Zig a solely way to program as an art and not as a KPI. I will write that article once I finished the 2nd chapter. Check my repo for updates. Soon, prob next or next next week.  
 
+I decided not to go to any social events at my college while graduating cuz I indirectly feed these behaviors. Also I wanted some time with complete solitude. If I wanna greet my parents, I'd do something tangible with their name on it, and I will. 
+
 Curiosity is an art because there are multiple ways to ask youself things nobody asked before. Programming is an art because 
 there are multiple solutions to a specific problem. Maybe you solved this problem using trees, I solved it using DFA... 
 
