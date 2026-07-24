@@ -38,7 +38,9 @@ my hand-written notes. My 1st gen Apple Pencil works very well, no drama, no fai
 
 4) My personal laptop has 2 partitions: one has a debloated Windows 10 which I do have it mostly for games (I'm not a gamer but, like I said in my previous article, Myst and Riven are games I really want to play once I need to think onto something that will dive me into a place filled with imagination). I also have an interesting game called Shenzhen I/O and Bitburner. No CSGO, no Fornite, no Valorant and FPS or pay-to-win games. In my other partition, I do have my custom Fedora with sway. (I'll share my dotfiles soon, see [my codeberg page](https://codeberg.org/Its-Yayo) for updates). My Fedora is mainly for coding and working on my servers and studying as well. No games, no steam, no nothing. Youtube is allowed just In case I wanna research on something very specific. The thing that the extension called "Unhook" is enabled on Firefox really helps me. No ads, no recommended videos. 
 
-And of course, I have Phirae, is my eternal extremely personal and physically reinforced Unix santuary I take with me everywhere and I deliverably obligated me to re-map my body and habits.
+And of course, I have Phirae, is my eternal extremely personal and physically reinforced Unix santuary I take with me everywhere (literally everywhere) and deliverably obligated me to physically hack and re-map my body and habits.
+
+I also do train my mind for long-term and constant music. Tangerine Dream, Space, Vangelis, Jean-Michel Jarre, Genesis, Yes, Pink Floyd.... those bands are my home. In the 70s, those Moog synthetizers sounded (and still sounds) awesomeeee
 
 I'm just waiting for my Thinkpad to be repaired but in the meantime, I do have a proper setup not just for productivity but for a mental peace and a goal-oriented mind in order to be connected with myself, my santuary and things that are surrounding me, as well as my habits, the way I work and the way I talk to people as for now. 
 
