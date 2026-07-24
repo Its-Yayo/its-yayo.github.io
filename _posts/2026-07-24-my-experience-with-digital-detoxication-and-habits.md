@@ -1,0 +1,54 @@
+---
+layout: post
+title: My experience with digital detox and habits
+tags: [reading, programming, learning, meditating, reflecting]
+---
+
+I just wanted to write a short quick article about my process with digital detox before starting my articles about servers and Zig. 
+
+"Digital Minimalism" by Cal Newport is a great book, it really shows to our face how our passive habbits drains our time, energy and foremostly, our attention span in favor or quick dopamine shots. Take a shot to read that book without distractions and with an open-minded attention to learn new things along the process. 
+
+Even though I'd never experienced being doomed with tiktok, I used to watch recommended youtube videos about computers or gadgets, reddit's drama and facebook. I do have an IG account but I almost never use it, just for close friends (now it is uninstalled and will remain that way for a long time). Watching recommended youtube videos, along with other habits I will write in a moment, are habits that made me write this article, in favor of recovering our attention span, our autonomy, our mental control with long-term micro habits that will have some significant impact in the future. The thing with this is, of course, a primitive mind needs short-term instant gratification to satisfy people's needs and guarantee survival. The problem with this is the mind achieves this by taking the shortest path possible (like a shortest path's algorithm like BFS or Dijkstra's Algorithm), the least-difficult task possible. 
+
+And the major problem with this is these tasks, these habits, made me, at least, less focused on what I really wanna  achieve. The prefrontal cortex, for example, is less active, less activated, which now the limbic system takes command. The award's body system. Take for example, junk food. Mexico is a place with a lot of junk food. In my surroundings, junk food is really cheap, it abounds everywhere and most of social interactions such as parties and stuff, prioritize junk food to "feel the vibe". There's no time to ask yourself: "is this really making me more intelligent, strong, resistant and focused?" without a proper self-driven purpose and a lot of effort. A lot of effort because most of the scales of this modern world is tipping against your own self-driven reasons why not to eat junk food. Junk food makes people to have more desire and impulses to eat more junk food. Unless we break the pattern with discipline and a low-level patch inside our minds, junk food (and most of the irrational impulses that are everyday are constantling bombarding our minds) are going to be there waiting. Not to mention junk food is carefully designed to be addictive, caloric, and they have low nutrients for our body so we are basically, ingesting low-health based food in favor of temporal pleasure rather than a long-term good health.
+
+There's more. The DMN (Default Mode Network) is a large-scale network of interconnected brain regions that goes into an active mode once you are not focused or engaged on something or towards a goal-directed habit. Let me say again, a **a goal-directed habit**. It's when you feel you are in "idle mode". Feeling like that is when for that specific day, you don't have any goals, plans, goal-oriented tasks, a deliberal schedule, there's nothing the mind can do. So what does it do? Activates the DMN; this essentialy means the mind needs something to fill that gap. How does it fiil it? It chooses the least-difficult task to be 
+occupied with something. What are those least-difficult tasks? Self-pleasure, eating junk food, playing videogames for 3-4h, sleeping without any reason, doomscrolling, that "emptyness" feeling that something is missing. An spoiler, it is not about yourself but your DMN and limbic system that had taken control.
+
+What I do to hack this? I do have a series of habits I'm doing and starting to adopt. I'll start by mentioning that ignoring, fighting or repelling those tasks and impulses are going to make them stronger, ending up doing what I didn't wanna do. It doesn't work and will never do. 
+
+I also wanna mention something important: **The way you start your day will define the rest of your day.**. The habits you have at the moment you wake up will define everything. If you open up tiktok or IG once you get out of your bed, that habit will 
+prevail the rest of the day. I've experienced that recently. I opened up linkedin, I felt quite anxious about not having a job yet even though I already applied to some positions and boom; I felt anxious the rest of the day. If you snooze your clock 
+alarm for 5-10-20-30 min, you will feel there's nothing much to do today, which will lead to your brain being in DMN mode. No tasks, no goals, just driven by instincts. 
+
+I did some reconnaisance about this. I do read and I started to research more about DMN (and its regions: mPFC, PPC, hippocampus, etc..). I started to see which habits are making me less focused, with that "emptyness" feeling. So I started to hack my reward's system by doing things that demand my full 100% attention. Redirecting impulses into a one, specific task, has helped me to hack this. 
+
+The Unix philosophy tells: "Do one thing but do that thing very well". Minimalism. There's no time to assimilate things when you have a lot of external stimuli surrounding you. There's no time to think when there are a lot of noises in the background. There's no time to meditate, to code, to read, to note, to hack my homunculus Penfield if my mind wants a short-term reward. There's no time for you to do whatever you want to do if you prioritize short-term rewards. 
+
+Minimalism as a state of art. I debloated my room and I stayed with the essentials and some good-looking things I see once I'm already programming, reading or even meditating. I do have an i486-dx (1989), a Pentium II Slot 1 (1994) and a Pentium III Slot 1 (1998) original SoCs in my personal desk, just for fun or to see them (they are waiting in case I find a motherboard).
+
+I will also share some of my gadgets to accomplish this everyday I wake up:
+
+1) My Palm Zire 71, it works perfectly with its original docking charger. It has a small date book, the original one that came with the device. It has Graffiti, an internal hand-written system to detect letters based on a drawing. Prob an iPad Pro M4 does this thing very well, alright, but note that this thing was released in 2003. No modern smartphones, no modern social media. No nothing. Of course it does not have internet access, it has 10 or 11 built-in apps. I do plan to port some games on it but it is not on top of my schedule. 
+
+2) My iPad 1 (2010). Yes, the original iPad. My mom gave it to me since Netflix dropped support for older devices. It has some original iOS 5.1.1 retro games and since it is jailbroken, I can do sideloading. I started to load some .PDF and .epub books for it and since now I'm studying Quantum Mechanics for a medium-term research lab exploration (currently reading "The Theoretical Minimum" by George Hrabovsky and Leonard Susskind), I do have my books there instead of reaching my laptop with +5 Firefox tabs.
+
+3) My iPad 9th with my pencil. This iPad is very special to me, it was my first self-own iPad my family bought it to me when I joined college. Now I have it for my personal books (non-study books, books that I read overnight or after waking up) and for
+my hand-written notes. My 1st gen Apple Pencil works very well, no drama, no failures overall even though I have it since Feb 2022 and I've not replaced the tip yet!. Works awesome. It has no social media, no notifications (except screen time and reminders), no youtube, no reddit rubbish, no modern games, no nothing really. I do even have a local firewall I set up with [nextdns.io](https://nextdns.io). I do have my profile both inside my devices and in my local sub-network. I also have it when I wanna draw things or to play chess
+
+4) My personal laptop has 2 partitions: one has a debloated Windows 10 which I do have it mostly for games (I'm not a gamer but, like I said in my previous article, Myst and Riven are games I really want to play once I need to think onto something that will dive me into a place filled with imagination). I also have an interesting game called Shenzhen I/O and Bitburner. No CSGO, no Fornite, no Valorant and FPS or pay-to-win games. In my other partition, I do have my custom Fedora with sway. (I'll share my dotfiles soon, see [my codeberg page](https://codeberg.org/Its-Yayo) for updates). My Fedora is mainly for coding and working on my servers and studying as well. No games, no steam, no nothing. Youtube is allowed just In case I wanna research on something very specific. The thing that the extension called "Unhook" is enabled on Firefox really helps me. No ads, no recommended videos. 
+
+And of course, I have Phirae, is my eternal extremely personaland physically reinforced Unix santuary I take with me everywhere and I deliverably obligated me to re-map my body and habits.
+
+I'm just waiting for my Thinkpad to be repaired but in the meantime, I do have a proper setup not just for productivity but for a mental peace and a goal-oriented mind in order to be connected with myself, my santuary and things that are surrounding me, as well as my habits, the way I work and the way I talk to people as for now. 
+
+As for food, I do have a personal rigid schedule: I avoid any kind of junk food (mexican and non-mexican food, such as tacos, pizza, hamburgers, french fries, potato chips, sweet bread which translated to spanish would be "pan dulce", etc etc etc). For social interactions that include junk food, I either mostly bring with myself good food or I fast. Fasting has a lot of science-backed benefits such as celullar repairation, brain functions, concentration. You are essentially hacking the primitive mind to now set your own food algorithm. You do not eat beacuse your mind tells you to do so, you eat because you are fueling 
+your body
+
+Workouts everyday are essential. I need a well-prepared circulatory system to be more focused on what I wanna do. Also take note that working out, indirectly pushes out the impulse away. I do take control of my system, my Penfield homunculus before the limbic system does it. 
+
+Like I said in my previous article, this is only my experience. Maybe it could help you, maybe you have some interesting ideas you can bring up to the table. Don't doubt to [reach and telling me](https://its-yayo.github.io/contact) those I ideas so we can entable a good debate! 
+
+See you in the next article, its going to be related either Zig or servers, it will be a surprise
+
+```exit(0);```
