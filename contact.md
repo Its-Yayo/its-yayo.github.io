@@ -8,7 +8,7 @@ In case you want to reach me for something, you can [mail](mailto:yayitzz@proton
 
 Just send me a message and I'll respond you whenever I'm available
 
-I do NOT have any modern social media accounts, which are X, reddit, discord, IG, FB, Tiktok (ew), Snapshat, etc...  (Linkedin is an exception but I do not answer there unless it is a job-related message.
+I do NOT have any modern social media accounts, which are X, reddit, discord, IG, FB, Tiktok (ew), Snapshat, etc...  (Linkedin is an exception but I do not answer there unless it is a job-related message but I prefer texts sent by email.)
 
 However, I also have: 
 - [My Session](https://getsession.org/) ID: 051944885b20e800aaffa29dd1876bcc0913acfbe1ca54023adb61003286ec0c2d
@@ -17,11 +17,9 @@ However, I also have:
 - [My Codeberg](https://codeberg.org/Its-Yayo)
 - [My Gitlab](https://gitlab.com/Its-Yayo)
 - [My Github](https://www.github.com/Its-Yayo)
-- [My ResearchGate](https://www.researchgate.net/profile/Luis-De-Leon-14?ev=hdr_xprf&_sg=jlgTVriqArpzUro4rL1X7QPrFO8E>
+- [My ResearchGate](https://www.researchgate.net/profile/Luis-De-Leon-14?ev=hdr_xprf&_sg=jlgTVriqArpzUro4rL1X7QPrFO8E>)
 - [My buymeacoffee page](https://www.buymeacoffee.com/elyayoveloz)
-
-# My ORCID ID
-```0009-0000-2794-8609```
+- My ORCID ID is 0009-0000-2794-8609
 
 ## My PGP Fingerprint
 
