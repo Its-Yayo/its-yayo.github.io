@@ -4,7 +4,7 @@ title: About
 ---
 
 ## Basics
-I'm Yayo and welcome to my personal public space. I'm a Unix researcher, a jr. systems architect inspired by original hackers at MIT and Bell Labs, FOSS and retro-computing enthusiastic, internee quantum researcher, mind researcher and professional thinker. I'm also a future quantum physicist / biologist, a former martial artist a runner. 
+I'm Yayo and welcome to my personal public space. I'm a Unix researcher, a jr. systems architect inspired by original hackers at MIT and Bell Labs, FOSS and retro-computing enthusiastic, internee quantum researcher, mind researcher and professional thinker. I'm also a future quantum physicist / biologist, a former martial artist and I'm also a runner. 
 
 ## What do I do here?
 It's my personal workspace in public, I mostly write technical articles about Linux, programming and (soon) science. I do NOT use LLMs to write this since I trully believe creativity comes from a human mind, not a NLP model designed to replicate a human model. I also tend to write some mental notes in here, as you all can see. Some personal, deep,
