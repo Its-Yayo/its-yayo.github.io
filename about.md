@@ -15,7 +15,7 @@ I have a home-lab for simulations and my stuff (cloud, music server, SearXNG ins
 mentality, a curious mentality, where I can ask myself a lot of things without losing wonder. I love the uncertainty of this universe. I love this universe, I love nature, plants, trees, forests, grass and I'm a trully advocator of nature. I do believe that kind of "disappeared" these days (and years) cuz of the arise of social media and modern society with 
 a lot of information / answers / rapid routines. Nature is still an important part in our lives (prob the most important thing though). I also love taking care of my most personal artefacts. I don't like modern consumerism, I believe our stuff has a special place in us and not just be "replacable"
 
-Despite the case whatsoever, I hope you all have a great time visiting my site and don't doubt to reach me in my [contact](https://its-yayo.github.io/about) page
+Despite the case whatsoever, I hope you all have a great time visiting my site and don't doubt to reach me in my [contact](https://its-yayo.github.io/contact) page
 
 
 ## Hobbies
