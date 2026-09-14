@@ -53,5 +53,5 @@ Take some action, read deliberately, stay informed. If you know your ex has now 
 
 Stay strong.  
 
-Pd. I don't know when my next article is going to be posted (since I really invest some time offline and studying/applying for postgraduate and master calls but I'll be consistently since this is a project I trully love. Some technical articles about science are coming up so stay tune.)
+Pd. I don't know when my next article is going to be posted (since I really invest some time offline and studying/applying for postgraduate and master calls but I'll be consistently since this is a project I trully love. Some technical articles about science are coming up so stay tuned.)
      
