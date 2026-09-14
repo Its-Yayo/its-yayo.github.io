@@ -37,8 +37,11 @@ Despite the case whatsoever, both type of gossips are drainful. Like I said, it 
 
 And I also wanna take a moment to share what the Bible has to say about gossips: 
 > "A perverse person stirs up conflict, and a gossip separates close friends." Proverbs 16:28
+
 > "For I am afraid that when I come I may not find you as I want you to be, and you may not find me as you want me to be. I fear that there may be discord, jealousy, fits of rage, selfish ambition, slander, gossip, arrogance and disorder." 2 Corinthians 12:20 
+
 > "Do not spread false reports. Do not help a guilty person by being a malicious witness." Exodus 23:1 
+
 > "A gossip betrays a confidence; so avoid anyone who talks too much." Proverbs 20:19
 
 Maybe you believe in God, maybe not. I share some verses cuz I do believe in God and God has a lot of things to share with us. Despite the case you believe or you don't, don't take for granted the message I wanna say: Gossips are an augmented version of the reality itself designed to drain our soul, our minds and our attention, making it easier for companies to make more revenue every quarter. And making it harder for us to accomplish our goals. 
