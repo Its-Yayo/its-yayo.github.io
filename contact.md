@@ -8,17 +8,17 @@ In case you want to reach me for something, you can [mail](mailto:yayitzz@proton
 
 Just send me a message and I'll respond you whenever I'm available
 
-I do NOT have any modern social media accounts, which are X, reddit, discord, twitch/kick, IG, FB, Tiktok, Snapchat, LinkedIn, etc etc... (and everything and anything that promotes hyper-connectivity). 
+I do NOT have any modern social media accounts, which are X, reddit, discord, twitch/kick, IG, FB, Tiktok, Snapchat, Linkedin, etc etc... (and everything and anything that promotes hyper-connectivity). 
 
 However, I also have: 
-- [My Mastodon](https://mastodon.social/@elyayoveloz). I treat it as a public diary, not a social media. What matters is what I think, not how many followers I have
+- [My Mastodon](https://mastodon.social/@elyayoveloz) (I treat it as a public diary, not a social media. What matters is what I think and what thoughts we can share together, not how many followers I have nor how many likes I have)
 - [My Session](https://getsession.org/) ID: 051944885b20e800aaffa29dd1876bcc0913acfbe1ca54023adb61003286ec0c2d
 - IRC, @yayo for libera and @yayitzz for OFTC (you can message me inside the network with ```/msg <user> <MESSAGE>```) 
 - XMPP, as yayo@xmpp.social 
 - [My Codeberg](https://codeberg.org/Its-Yayo)
 - [My Gitlab](https://gitlab.com/Its-Yayo)
 - [My Github](https://www.github.com/Its-Yayo)
-- [My ResearchGate](https://www.researchgate.net/profile/Luis-De-Leon-14?ev=hdr_xprf&_sg=jlgTVriqArpzUro4rL1X7QPrFO8E>)
+- [My ResearchGate](https://www.researchgate.net/profile/Luis-De-Leon-14?ev=hdr_xprf&_sg=jlgTVriqArpzUro4rL1X7QPrFO8E>) (for future papers)
 - [My buymeacoffee page](https://www.buymeacoffee.com/elyayoveloz)
 - My ORCID ID is 0009-0000-2794-8609
 

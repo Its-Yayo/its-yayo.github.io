@@ -7,9 +7,6 @@ navbar_entries:
 
   - title: Contact
     url: contact
-     
-  - title: Skills
-    url: skills
   
   - title: Services
     url: services
