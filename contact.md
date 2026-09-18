@@ -8,9 +8,10 @@ In case you want to reach me for something, you can [mail](mailto:yayitzz@proton
 
 Just send me a message and I'll respond you whenever I'm available
 
-I do NOT have any modern social media accounts, which are X, reddit, discord, IG, FB, Tiktok (ew), Snapshat, etc...  (Linkedin is an exception but I do not answer there unless it is a job-related message but I prefer texts sent by email.)
+I do NOT have any modern social media accounts, which are X, reddit, discord, twitch/kick, IG, FB, Tiktok, Snapchat, LinkedIn, etc etc... (and everything and anything that promotes hyper-connectivity). 
 
 However, I also have: 
+- [My Mastodon](https://mastodon.social/@elyayoveloz). I treat it as a public diary, not a social media. What matters is what I think, not how many followers I have
 - [My Session](https://getsession.org/) ID: 051944885b20e800aaffa29dd1876bcc0913acfbe1ca54023adb61003286ec0c2d
 - IRC, @yayo for libera and @yayitzz for OFTC (you can message me inside the network with ```/msg <user> <MESSAGE>```) 
 - XMPP, as yayo@xmpp.social 
