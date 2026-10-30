@@ -13,6 +13,7 @@ I do NOT have any modern social media accounts, which are X, reddit, twitch/kick
 However, I also have: 
 - My ORCID ID is 0009-0000-2794-8609
 - [My Bluesky](https://bsky.app/profile/elyayoveloz.bsky.social) (I treat it as a public diary, not a social media. What matters is what I think and what thoughts we can share together, not how many followers I have nor how many likes I have)
+- [My YT account](https://youtube.com/@elyayoveloz) (I don't upload videos yet..., I'm still thinking about if it's worth it)
 - [My Session](https://getsession.org/) ID: 051944885b20e800aaffa29dd1876bcc0913acfbe1ca54023adb61003286ec0c2d
 - IRC, @yayo for libera and @yayitzz for OFTC (you can message me inside the network with ```/msg <user> <MESSAGE>```) 
 - XMPP, as yayo@xmpp.social
