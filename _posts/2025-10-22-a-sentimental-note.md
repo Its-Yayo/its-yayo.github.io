@@ -27,8 +27,7 @@ I also discovered that my extensions are different and they are built different.
 
 And yea, most of the 95% stuff that's living in your head doesn't exist. I encourage you (and myself) to read my [article](https://its-yayo.github.io/it-is-just-a-thought). I still struggle with this, some of the thoughts I have they feel so real that sometimes I need to walk alone to address them. It is alright, everything is alright. Maybe these thoughts exist for a reason and not for the thoughts' content per se.
 
-I just prayed rn. Nicki is with me always, as well as God. I'm grateful different for so many things and fortunately there's my fam with me. Like I said the last article, I met a girl and she's cute and charismatic, I like her, but yep, I also need to be myself. My extensions are with me always and, like I said 
-before, I also need to swim against the tide to respect them and respect myself and my ideals. 
+I just prayed rn. Nicki is with me always, as well as God. I'm grateful different for so many things and fortunately there's my fam with me. 
 
 Hopefully I'll join Debian team soon, I have a plan for my first package. I love Arch, I love my extensions, I love Linux, I love quantum mechanics, I love life, I love "love". I love myself, I love this universe
 
