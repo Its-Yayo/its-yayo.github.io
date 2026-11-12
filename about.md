@@ -19,7 +19,7 @@ Despite the case whatsoever, I hope you all have a great time visiting my site a
 
 
 ## Hobbies
-- I love taking care of Nella. my ultra-modified jailbroken white iPhone 4 which is eternal, contains my external and internal memories. It has my fav deep games, my personal private journal, my UNIX terminal, my personal books, and my apps that are frozen in time. Everything that is in there (and Nella per se) is mine. For real. I carry her with me everywhere.
+- I love taking care of Nella. my ultra-modified jailbroken white iPhone 4 which is eternal, contains a personal physical history (so its not just another white iPhone 4, it is Nella) contains my external and internal memories. It has my fav deep games, my personal private journal, my UNIX terminal, my personal books, and my apps that are frozen in time. Everything that is in there (and Nella per se) is mine. For real. I carry her with me everywhere.
 - I love science. I love maths, physics (classical and quantum), thermodynamics, Maxwell's equations, proteins, free energy, calculus and whatever that trascends limits
 - I love BSDs, Linux and Unix-like operating systems. It includes the history of Unix, PWB/UNIX, BSD, SunOS, IRIX, etc... history of computing, mainframes, micros, minis...
 - I love hardware as well. I love motherboards, logic gates, transitors.
